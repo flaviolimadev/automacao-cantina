@@ -79,7 +79,7 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 class AutomacaoCobrancas:
-    def __init__(self, supabase_url: str, supabase_key: str, csv_file: str = "responsaveis_com_dividas_20251109_102723.csv"):
+    def __init__(self, supabase_url: str, supabase_key: str, csv_file: str = "responsaveis_com_dividas_20251116_113430.csv"):
         """
         Inicializa o sistema de automação de cobranças.
         
@@ -866,8 +866,8 @@ class AutomacaoCobrancas:
             else:
                 logger.info("ℹ️ Toggle não foi clicado - configuração mantida")
             
-            # Passo 7: Selecionar data de vencimento (09/11/2025)
-            logger.info("📅 Configurando data de vencimento para 09/11/2025...")
+            # Passo 7: Selecionar data de vencimento (16/11/2025)
+            logger.info("📅 Configurando data de vencimento para 16/11/2025...")
             
             data_configurada = False
             
@@ -1073,42 +1073,42 @@ class AutomacaoCobrancas:
     
     def selecionar_data_calendario(self) -> bool:
         """
-        Seleciona a data 09/11/2025 no react-calendar.
+        Seleciona a data 16/11/2025 no react-calendar.
         
         Returns:
             True se conseguiu selecionar a data, False caso contrário
         """
         try:
-            # Procurar especificamente pelo dia 09 usando os seletores do react-calendar
+            # Procurar especificamente pelo dia 16 usando os seletores do react-calendar
             data_encontrada = False
             
-            # Estratégia 1: Procurar pelo botão do dia 09 com aria-label específico
+            # Estratégia 1: Procurar pelo botão do dia 16 com aria-label específico
             try:
-                dia_09_btn = self.driver.find_element(By.XPATH, "//button[contains(@class, 'react-calendar__tile') and contains(@class, 'react-calendar__month-view__days__day')]//abbr[@aria-label='9 de novembro de 2025']/..")
-                dia_09_btn.click()
-                logger.info("✅ Dia 09 selecionado (Estratégia 1 - aria-label)")
+                dia_16_btn = self.driver.find_element(By.XPATH, "//button[contains(@class, 'react-calendar__tile') and contains(@class, 'react-calendar__month-view__days__day')]//abbr[@aria-label='16 de novembro de 2025']/..")
+                dia_16_btn.click()
+                logger.info("✅ Dia 16 selecionado (Estratégia 1 - aria-label)")
                 data_encontrada = True
                 time.sleep(2)
             except NoSuchElementException:
                 logger.info("⚠️ Estratégia 1 falhou, tentando Estratégia 2...")
             
-            # Estratégia 2: Procurar pelo botão que contém abbr com texto "9" ou "09"
+            # Estratégia 2: Procurar pelo botão que contém abbr com texto "16"
             if not data_encontrada:
                 try:
-                    dia_09_btn = self.driver.find_element(By.XPATH, "//button[contains(@class, 'react-calendar__tile') and contains(@class, 'react-calendar__month-view__days__day')]//abbr[normalize-space(text())='9' or normalize-space(text())='09']/..")
-                    dia_09_btn.click()
-                    logger.info("✅ Dia 09 selecionado (Estratégia 2 - texto abbr)")
+                    dia_16_btn = self.driver.find_element(By.XPATH, "//button[contains(@class, 'react-calendar__tile') and contains(@class, 'react-calendar__month-view__days__day')]//abbr[normalize-space(text())='16']/..")
+                    dia_16_btn.click()
+                    logger.info("✅ Dia 16 selecionado (Estratégia 2 - texto abbr)")
                     data_encontrada = True
                     time.sleep(2)
                 except NoSuchElementException:
                     logger.info("⚠️ Estratégia 2 falhou, tentando Estratégia 3...")
             
-            # Estratégia 3: Procurar diretamente pelo botão com classe específica e texto 09
+            # Estratégia 3: Procurar diretamente pelo botão com classe específica e texto 16
             if not data_encontrada:
                 try:
-                    dia_09_btn = self.driver.find_element(By.XPATH, "//button[contains(@class, 'react-calendar__tile') and contains(@class, 'react-calendar__month-view__days__day') and .//abbr[text()='9' or text()='09']]")
-                    dia_09_btn.click()
-                    logger.info("✅ Dia 09 selecionado (Estratégia 3 - classe + texto)")
+                    dia_16_btn = self.driver.find_element(By.XPATH, "//button[contains(@class, 'react-calendar__tile') and contains(@class, 'react-calendar__month-view__days__day') and .//abbr[text()='16']]")
+                    dia_16_btn.click()
+                    logger.info("✅ Dia 16 selecionado (Estratégia 3 - classe + texto)")
                     data_encontrada = True
                     time.sleep(2)
                 except NoSuchElementException:
@@ -1117,15 +1117,15 @@ class AutomacaoCobrancas:
             # Estratégia 4: Procurar pelo botão com --now (que indica dia atual/hoje)
             if not data_encontrada:
                 try:
-                    dia_09_btn = self.driver.find_element(By.XPATH, "//button[contains(@class, 'react-calendar__tile--now') and contains(@class, 'react-calendar__month-view__days__day')]")
-                    dia_09_btn.click()
-                    logger.info("✅ Dia 09 selecionado (Estratégia 4 - tile--now)")
+                    dia_16_btn = self.driver.find_element(By.XPATH, "//button[contains(@class, 'react-calendar__tile--now') and contains(@class, 'react-calendar__month-view__days__day')]")
+                    dia_16_btn.click()
+                    logger.info("✅ Dia 16 selecionado (Estratégia 4 - tile--now)")
                     data_encontrada = True
                     time.sleep(2)
                 except NoSuchElementException:
                     logger.info("⚠️ Estratégia 4 falhou, tentando Estratégia 5...")
             
-            # Estratégia 5: Listar todos os botões do calendar e procurar pelo que contém "9" ou "09"
+            # Estratégia 5: Listar todos os botões do calendar e procurar pelo que contém "16"
             if not data_encontrada:
                 try:
                     botoes_dias = self.driver.find_elements(By.XPATH, "//button[contains(@class, 'react-calendar__tile') and contains(@class, 'react-calendar__month-view__days__day')]")
@@ -1137,9 +1137,9 @@ class AutomacaoCobrancas:
                             aria_label = botao.get_attribute('aria-label') or ''
                             logger.info(f"  Botão {i+1}: texto='{texto_botao}', aria-label='{aria_label}'")
                             
-                            if texto_botao == '9' or texto_botao == '09' or '9 de novembro' in aria_label or '09 de novembro' in aria_label:
+                            if texto_botao == '16' or '16 de novembro' in aria_label:
                                 botao.click()
-                                logger.info(f"✅ Dia 09 selecionado (Estratégia 5 - botão {i+1})")
+                                logger.info(f"✅ Dia 16 selecionado (Estratégia 5 - botão {i+1})")
                                 data_encontrada = True
                                 time.sleep(2)
                                 break
@@ -1148,14 +1148,14 @@ class AutomacaoCobrancas:
                             continue
                                 
                     if not data_encontrada:
-                        logger.warning("⚠️ Dia 09 não encontrado na lista de botões")
+                        logger.warning("⚠️ Dia 16 não encontrado na lista de botões")
                         
-                        # Estratégia 6: Clicar no nono botão disponível (que deve ser o dia 09)
+                        # Estratégia 6: Clicar no décimo sexto botão disponível (que deve ser o dia 16)
                         try:
-                            if botoes_dias and len(botoes_dias) >= 9:
-                                nono_botao = botoes_dias[8]  # Nono botão (dia 09)
-                                nono_botao.click()
-                                logger.info("✅ Nono botão (dia 09) clicado como fallback")
+                            if botoes_dias and len(botoes_dias) >= 16:
+                                decimo_sexto_botao = botoes_dias[15]  # Décimo sexto botão (dia 16)
+                                decimo_sexto_botao.click()
+                                logger.info("✅ Décimo sexto botão (dia 16) clicado como fallback")
                                 data_encontrada = True
                                 time.sleep(2)
                         except Exception as e:
@@ -1183,10 +1183,10 @@ class AutomacaoCobrancas:
                 except NoSuchElementException:
                     logger.info("✅ Calendar fechou automaticamente")
                     
-                logger.info("🎉 Data 09/11/2025 configurada com sucesso!")
+                logger.info("🎉 Data 16/11/2025 configurada com sucesso!")
                 return True
             else:
-                logger.warning("⚠️ Não foi possível selecionar o dia 09 - usando data padrão")
+                logger.warning("⚠️ Não foi possível selecionar o dia 16 - usando data padrão")
                 return False
                 
         except Exception as e:
@@ -1478,7 +1478,7 @@ def main():
             return False
         
         # Verificar se arquivo CSV específico existe
-        csv_file = "responsaveis_com_dividas_20251109_102723.csv"
+        csv_file = "responsaveis_com_dividas_20251116_113430.csv"
         if not os.path.exists(csv_file):
             logger.error(f"❌ Arquivo CSV não encontrado: {csv_file}")
             logger.error("💡 Certifique-se de que o arquivo CSV está na pasta do projeto")

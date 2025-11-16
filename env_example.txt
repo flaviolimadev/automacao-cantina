@@ -1,0 +1,7 @@
+# Configurações do Supabase - Renomeie este arquivo para .env
+SUPABASE_URL=https://seu-projeto.supabase.co
+SUPABASE_KEY=sua-supabase-anon-key
+SUPABASE_SERVICE_ROLE_KEY=sua-service-role-key
+
+# Configurações do banco de dados (opcional, para conexão direta)
+DATABASE_URL=postgresql://postgres:senha@db.seu-projeto.supabase.co:5432/postgres 

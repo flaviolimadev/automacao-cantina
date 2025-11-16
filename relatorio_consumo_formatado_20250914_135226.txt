@@ -1,0 +1,4169 @@
+
+================================================================================
+                    RELATÓRIO DE CONSUMO - CANTINA ESCOLAR
+                    Data de Geração:,14/09/2025 às 13:52
+================================================================================
+
+--------------------------------------------------------------------------------
+RESPONSÁVEL #001
+--------------------------------------------------------------------------------
+Nome: ADRIANA SANTOS LEÔNCIO BRANDÃO
+Telefone: (84) 98716-7018
+"Total Geral: R$ 27,00"
+
+  📚 ALUNO: DIEGO LEÔNCIO BRANDÃO FILHO
+"  💰 Total do Aluno: R$ 27,00"
+
+    Data,Valor (R$),Descrição do Consumo
+    ----------,------------,----------------------------------------
+    27/08/2025,"R$ 5,00",TORRADA / MISTO QUENTE
+    27/08/2025,"R$ 6,00",SALGADO
+    02/09/2025,"R$ 6,00",SALGADO
+    02/09/2025,"R$ 10,00",SALGADO + CHAMYTO
+
+
+--------------------------------------------------------------------------------
+RESPONSÁVEL #002
+--------------------------------------------------------------------------------
+Nome: ADRIANO ELISMAEL MACÊDO DE PAIVA
+Telefone: (84) 99710-6374
+"Total Geral: R$ 94,00"
+
+  📚 ALUNO: GABRIEL COSTA MACÊDO DE PAIVA
+"  💰 Total do Aluno: R$ 94,00"
+
+    Data,Valor (R$),Descrição do Consumo
+    ----------,------------,----------------------------------------
+    28/08/2025,"R$ 16,00",Produto não especificado
+    27/08/2025,"R$ 8,00",Produto não especificado
+    27/08/2025,"R$ 8,00",AÇAÍ (POTE 250ML)
+    25/08/2025,"R$ 6,00",Produto não especificado
+    05/09/2025,"R$ 10,00",Produto não especificado
+    04/09/2025,"R$ 6,00",Produto não especificado
+    03/09/2025,"R$ 10,00",CAPPUCCINO 3 CORAÇÕES
+    03/09/2025,"R$ 20,00",2x CAPPUCCINO 3 CORAÇÕES
+    02/09/2025,"R$ 10,00",Produto não especificado
+
+
+--------------------------------------------------------------------------------
+RESPONSÁVEL #003
+--------------------------------------------------------------------------------
+Nome: AGOSTINHO JUSTINO DE ANDRADE NETO
+Telefone: (85) 98880-1255
+"Total Geral: R$ 34,00"
+
+  📚 ALUNO: ARTHUR SARMENTO DE ANDRADE
+"  💰 Total do Aluno: R$ 20,00"
+
+    Data,Valor (R$),Descrição do Consumo
+    ----------,------------,----------------------------------------
+    25/08/2025,"R$ 6,00",Produto não especificado
+    05/09/2025,"R$ 6,00",Produto não especificado
+    03/09/2025,"R$ 8,00",Produto não especificado
+
+  📚 ALUNO: BERNARDO SARMENTO DE ANDRADE
+"  💰 Total do Aluno: R$ 14,00"
+
+    Data,Valor (R$),Descrição do Consumo
+    ----------,------------,----------------------------------------
+    28/08/2025,"R$ 6,00",MINI-PIZZA
+    05/09/2025,"R$ 8,00",AÇAÍ (POTE 250ML)
+
+
+--------------------------------------------------------------------------------
+RESPONSÁVEL #004
+--------------------------------------------------------------------------------
+Nome: ALANA LEIZIE MATTOS DE FIGUEIREDO
+Telefone: (92) 98123-5412
+"Total Geral: R$ 16,00"
+
+  📚 ALUNO: LIZ LEIZIE SOUZA MATTOS
+"  💰 Total do Aluno: R$ 16,00"
+
+    Data,Valor (R$),Descrição do Consumo
+    ----------,------------,----------------------------------------
+    27/08/2025,"R$ 6,00",MINI-PIZZA
+    05/09/2025,"R$ 10,00",Produto não especificado
+
+
+--------------------------------------------------------------------------------
+RESPONSÁVEL #005
+--------------------------------------------------------------------------------
+Nome: ALDENISE  RAMOS CARNEIRO DA CUNHA
+Telefone: (84) 99945-4206
+"Total Geral: R$ 14,00"
+
+  📚 ALUNO: ANA CECILIA RAMOS DE AQUINO CUNHA
+"  💰 Total do Aluno: R$ 14,00"
+
+    Data,Valor (R$),Descrição do Consumo
+    ----------,------------,----------------------------------------
+    27/08/2025,"R$ 14,00",Produto não especificado
+
+
+--------------------------------------------------------------------------------
+RESPONSÁVEL #006
+--------------------------------------------------------------------------------
+Nome: ALESSANDRA BELLAGUARDA
+Telefone: (84) 98122-5696
+"Total Geral: R$ 153,00"
+
+  📚 ALUNO: DAVI  BELLAGUARDA
+"  💰 Total do Aluno: R$ 86,00"
+
+    Data,Valor (R$),Descrição do Consumo
+    ----------,------------,----------------------------------------
+    28/08/2025,"R$ 14,00",CASADINHA + CHOCOLATE
+    27/08/2025,"R$ 29,00",Produto não especificado
+    05/09/2025,"R$ 8,00",Produto não especificado
+    04/09/2025,"R$ 23,00",2x CASADINHA + CHOCOLATE
+    03/09/2025,"R$ 6,00",SALGADO
+    02/09/2025,"R$ 6,00",Produto não especificado
+
+  📚 ALUNO: JONATAS  BELLAGUARDA
+"  💰 Total do Aluno: R$ 67,00"
+
+    Data,Valor (R$),Descrição do Consumo
+    ----------,------------,----------------------------------------
+    27/08/2025,"R$ 8,00",AÇAÍ (POTE 250ML)
+    27/08/2025,"R$ 11,00",SALGADO + IOGURTE
+    25/08/2025,"R$ 5,00",Produto não especificado
+    05/09/2025,"R$ 12,00",Produto não especificado
+    05/09/2025,"R$ 8,00",AÇAÍ (POTE 250ML)
+    03/09/2025,"R$ 14,00",AÇAÍ (POTE 250ML) + SALGADO
+    02/09/2025,"R$ 9,00",MINI-PIZZA + ÁGUA MINERAL (SEM GÁS)
+
+
+--------------------------------------------------------------------------------
+RESPONSÁVEL #007
+--------------------------------------------------------------------------------
+Nome: ALEXANDRA LIMA BEZERRA
+Telefone: (84) 98714-7528
+"Total Geral: R$ 17,00"
+
+  📚 ALUNO: MIGUEL VASCONCELOS BEZERRA
+"  💰 Total do Aluno: R$ 17,00"
+
+    Data,Valor (R$),Descrição do Consumo
+    ----------,------------,----------------------------------------
+    27/08/2025,"R$ 6,00",SALGADO
+    05/09/2025,"R$ 6,00",Produto não especificado
+    02/09/2025,"R$ 5,00",Produto não especificado
+
+
+--------------------------------------------------------------------------------
+RESPONSÁVEL #008
+--------------------------------------------------------------------------------
+Nome: ALINE MANETTI LOPES BARANSKI
+Telefone: (84) 99669-7101
+"Total Geral: R$ 18,00"
+
+  📚 ALUNO: JOÃO FRANCISCO MANETTI LOPES BARANSKI
+"  💰 Total do Aluno: R$ 18,00"
+
+    Data,Valor (R$),Descrição do Consumo
+    ----------,------------,----------------------------------------
+    04/09/2025,"R$ 6,00",SALGADO
+    03/09/2025,"R$ 6,00",SALGADO
+    02/09/2025,"R$ 6,00",Produto não especificado
+
+
+--------------------------------------------------------------------------------
+RESPONSÁVEL #009
+--------------------------------------------------------------------------------
+Nome: AMANDA AMANDA
+Telefone: (84) 99842-5942
+"Total Geral: R$ 10,00"
+
+  📚 ALUNO: GABRIEL MEDEIROS  DAMASCENO
+"  💰 Total do Aluno: R$ 10,00"
+
+    Data,Valor (R$),Descrição do Consumo
+    ----------,------------,----------------------------------------
+    27/08/2025,"R$ 10,00",REFRIGERANTE PET + SALGADO
+
+
+--------------------------------------------------------------------------------
+RESPONSÁVEL #010
+--------------------------------------------------------------------------------
+Nome: AMANDA DANTAS  CADÓ
+Telefone: (84) 98178-8184
+"Total Geral: R$ 11,00"
+
+  📚 ALUNO: EDUARDO  CADÓ
+"  💰 Total do Aluno: R$ 11,00"
+
+    Data,Valor (R$),Descrição do Consumo
+    ----------,------------,----------------------------------------
+    29/08/2025,"R$ 11,00",Produto não especificado
+
+
+--------------------------------------------------------------------------------
+RESPONSÁVEL #011
+--------------------------------------------------------------------------------
+Nome: ANA  PAULA
+Telefone: (84) 98708-0949
+"Total Geral: R$ 72,00"
+
+  📚 ALUNO: ALICIA  TEIXEIRA
+"  💰 Total do Aluno: R$ 72,00"
+
+    Data,Valor (R$),Descrição do Consumo
+    ----------,------------,----------------------------------------
+    29/08/2025,"R$ 9,00",Produto não especificado
+    28/08/2025,"R$ 9,00",Produto não especificado
+    27/08/2025,"R$ 9,00",CASADINHA
+    27/08/2025,"R$ 9,00",CASADINHA
+    04/09/2025,"R$ 9,00",Produto não especificado
+    03/09/2025,"R$ 18,00",2x CASADINHA
+    02/09/2025,"R$ 9,00",Produto não especificado
+
+
+--------------------------------------------------------------------------------
+RESPONSÁVEL #012
+--------------------------------------------------------------------------------
+Nome: ANA CAROLINA MAIA DE SÁ
+Telefone: (84) 99225-9545
+"Total Geral: R$ 81,00"
+
+  📚 ALUNO: ISAAC RONALDO DE SA CABRAL OLI VEIRA
+"  💰 Total do Aluno: R$ 52,00"
+
+    Data,Valor (R$),Descrição do Consumo
+    ----------,------------,----------------------------------------
+    29/08/2025,"R$ 4,00",ACHOCOLATADO
+    28/08/2025,"R$ 4,00",ACHOCOLATADO
+    27/08/2025,"R$ 6,00",MINI-PIZZA
+    27/08/2025,"R$ 4,00",ACHOCOLATADO
+    25/08/2025,"R$ 6,00",Produto não especificado
+    05/09/2025,"R$ 6,00",Produto não especificado
+    04/09/2025,"R$ 7,00",Produto não especificado
+    03/09/2025,"R$ 8,00",Produto não especificado
+    02/09/2025,"R$ 7,00",HAMBURGUER ARTESANAL
+
+  📚 ALUNO: REBECA DE SÁ CABRAL OLIVEIRA
+"  💰 Total do Aluno: R$ 29,00"
+
+    Data,Valor (R$),Descrição do Consumo
+    ----------,------------,----------------------------------------
+    27/08/2025,"R$ 9,00",ACHOCOLATADO + CUPCAKE
+    03/09/2025,"R$ 10,00",Produto não especificado
+    02/09/2025,"R$ 10,00",ACHOCOLATADO + SALGADO
+
+
+--------------------------------------------------------------------------------
+RESPONSÁVEL #013
+--------------------------------------------------------------------------------
+Nome: ANA CAROLINA NOVAES FERNANDES
+Telefone: (84) 98118-7296
+"Total Geral: R$ 137,00"
+
+  📚 ALUNO: MARIA LUIZA FERNANDES BATISTA
+"  💰 Total do Aluno: R$ 77,00"
+
+    Data,Valor (R$),Descrição do Consumo
+    ----------,------------,----------------------------------------
+    29/08/2025,"R$ 11,00",BOLO DE POTE + SUCOS (200ML)
+    28/08/2025,"R$ 3,00",ÁGUA MINERAL (SEM GÁS)
+    27/08/2025,"R$ 14,00",AÇAÍ (POTE 250ML) + MINI-PIZZA
+    27/08/2025,"R$ 8,00",AÇAÍ (POTE 250ML)
+    05/09/2025,"R$ 6,00",Produto não especificado
+    05/09/2025,"R$ 13,00",AÇAÍ (POTE 250ML) + IOGURTE
+    03/09/2025,"R$ 10,00",Produto não especificado
+    02/09/2025,"R$ 8,00",CREME DE NINHO
+    02/09/2025,"R$ 4,00",CHAMYTO
+
+  📚 ALUNO: PEDRO MARIANO FERNANDES BATISTA
+"  💰 Total do Aluno: R$ 60,00"
+
+    Data,Valor (R$),Descrição do Consumo
+    ----------,------------,----------------------------------------
+    27/08/2025,"R$ 12,00",AÇAÍ (POTE 250ML) + CHAMYTO
+    27/08/2025,"R$ 18,00",SALGADO + SUCOS (200ML) + AÇAÍ (POTE 250ML)
+    03/09/2025,"R$ 10,00",Produto não especificado
+    02/09/2025,"R$ 8,00",Produto não especificado
+    02/09/2025,"R$ 12,00",CHAMYTO + ÁGUA MINERAL (SEM GÁS) + TAPIOCA RECHEADA
+
+
+--------------------------------------------------------------------------------
+RESPONSÁVEL #014
+--------------------------------------------------------------------------------
+Nome: ANA CLEIDE  DE AGUIAR  FERREIRA
+Telefone: (84) 99974-1579
+"Total Geral: R$ 21,00"
+
+  📚 ALUNO: HEITOR FERREIRA  DOS SANTOS
+"  💰 Total do Aluno: R$ 21,00"
+
+    Data,Valor (R$),Descrição do Consumo
+    ----------,------------,----------------------------------------
+    29/08/2025,"R$ 11,00",SALGADO + CHOCOLATE
+    04/09/2025,"R$ 10,00",CHOCOLATE  + FRUTAS (POTE 250ML)
+
+
+--------------------------------------------------------------------------------
+RESPONSÁVEL #015
+--------------------------------------------------------------------------------
+Nome: ANA CYNTHIA PRAXEDES DE AMORIM  E  SILVA ALMEIDA
+Telefone: (84) 99912-1481
+"Total Geral: R$ 10,00"
+
+  📚 ALUNO: REBECCA DE AMORIM ALMEIDA
+"  💰 Total do Aluno: R$ 10,00"
+
+    Data,Valor (R$),Descrição do Consumo
+    ----------,------------,----------------------------------------
+    05/09/2025,"R$ 6,00",SALGADO
+    04/09/2025,"R$ 4,00",Produto não especificado
+
+
+--------------------------------------------------------------------------------
+RESPONSÁVEL #016
+--------------------------------------------------------------------------------
+Nome: ANA LUIZA DOS SANTOS CRUZ
+Telefone: (84) 98606-3007
+"Total Geral: R$ 23,00"
+
+  📚 ALUNO: ANA LUIZA DOS SANTOS  CRUZ
+"  💰 Total do Aluno: R$ 23,00"
+
+    Data,Valor (R$),Descrição do Consumo
+    ----------,------------,----------------------------------------
+    28/08/2025,"R$ 9,00",CASADINHA
+    03/09/2025,"R$ 14,00",CASADINHA + CHOCOLATE
+
+
+--------------------------------------------------------------------------------
+RESPONSÁVEL #017
+--------------------------------------------------------------------------------
+Nome: ANA RAPHAELLA BARROCA FRANCO
+Telefone: (84) 99157-3756
+"Total Geral: R$ 20,00"
+
+  📚 ALUNO: LIA BARROCA DA SILVA
+"  💰 Total do Aluno: R$ 20,00"
+
+    Data,Valor (R$),Descrição do Consumo
+    ----------,------------,----------------------------------------
+    27/08/2025,"R$ 14,00",TORRADA / MISTO QUENTE + BOLO FATIA + SUCOS (200ML)
+    05/09/2025,"R$ 6,00",Produto não especificado
+
+
+--------------------------------------------------------------------------------
+RESPONSÁVEL #018
+--------------------------------------------------------------------------------
+Nome: ANA SANTANA DE ARAÚJO
+Telefone: (84) 99600-9307
+"Total Geral: R$ 17,00"
+
+  📚 ALUNO: NICOLLY ARAUJO COSTA
+"  💰 Total do Aluno: R$ 17,00"
+
+    Data,Valor (R$),Descrição do Consumo
+    ----------,------------,----------------------------------------
+    28/08/2025,"R$ 11,00",Produto não especificado
+    27/08/2025,"R$ 6,00",SALGADO
+
+
+--------------------------------------------------------------------------------
+RESPONSÁVEL #019
+--------------------------------------------------------------------------------
+Nome: ANDRE MARCOS DA CUNHA VARELA
+Telefone: (84) 99956-3792
+"Total Geral: R$ 42,00"
+
+  📚 ALUNO: CECÍLIA BARRETO VARELA
+"  💰 Total do Aluno: R$ 42,00"
+
+    Data,Valor (R$),Descrição do Consumo
+    ----------,------------,----------------------------------------
+    29/08/2025,"R$ 16,00",CHAMYTO + SALGADO + PÃO DE QUEIJO (PORÇÃO)
+    27/08/2025,"R$ 10,00",MINI-PIZZA + CHAMYTO
+    27/08/2025,"R$ 6,00",SALGADO
+    25/08/2025,"R$ 6,00",MINI-PIZZA
+    02/09/2025,"R$ 4,00",Produto não especificado
+
+
+--------------------------------------------------------------------------------
+RESPONSÁVEL #020
+--------------------------------------------------------------------------------
+Nome: ANDREZA  CABRAL CÂMARA NUNES
+Telefone: (84) 98882-9659
+"Total Geral: R$ 72,00"
+
+  📚 ALUNO: JOÃO DANIEL CÂMARA NUNES
+"  💰 Total do Aluno: R$ 72,00"
+
+    Data,Valor (R$),Descrição do Consumo
+    ----------,------------,----------------------------------------
+    28/08/2025,"R$ 9,00",Produto não especificado
+    27/08/2025,"R$ 10,00",Produto não especificado
+    04/09/2025,"R$ 14,00",SALGADO + CREME DE GUARANÁ
+    03/09/2025,"R$ 16,00",SALGADO + CAPPUCCINO 3 CORAÇÕES
+    03/09/2025,"R$ 17,00",Produto não especificado
+    02/09/2025,"R$ 6,00",Produto não especificado
+
+
+--------------------------------------------------------------------------------
+RESPONSÁVEL #021
+--------------------------------------------------------------------------------
+Nome: ANDREZA  KARINA ALVES PAIVA DUARTE
+Telefone: (84) 98832-3163
+"Total Geral: R$ 29,00"
+
+  📚 ALUNO: MARIA ALICE PAIVA DUARTE
+"  💰 Total do Aluno: R$ 29,00"
+
+    Data,Valor (R$),Descrição do Consumo
+    ----------,------------,----------------------------------------
+    29/08/2025,"R$ 5,00",Produto não especificado
+    28/08/2025,"R$ 6,00",Produto não especificado
+    04/09/2025,"R$ 7,00",Produto não especificado
+    03/09/2025,"R$ 11,00",BOLO FATIA + SALGADO
+
+
+--------------------------------------------------------------------------------
+RESPONSÁVEL #022
+--------------------------------------------------------------------------------
+Nome: ANDREZA CARVALHO DE LIMA TELLES
+Telefone: (84) 98848-4828
+"Total Geral: R$ 24,00"
+
+  📚 ALUNO: ALICE CARVALHO TELLES
+"  💰 Total do Aluno: R$ 24,00"
+
+    Data,Valor (R$),Descrição do Consumo
+    ----------,------------,----------------------------------------
+    29/08/2025,"R$ 6,00",SALGADO
+    05/09/2025,"R$ 6,00",SALGADO
+    03/09/2025,"R$ 6,00",SALGADO
+    02/09/2025,"R$ 6,00",MINI-PIZZA
+
+
+--------------------------------------------------------------------------------
+RESPONSÁVEL #023
+--------------------------------------------------------------------------------
+Nome: ANDREZA LIMA DE OLIVEIRA
+Telefone: (84) 98836-5151
+"Total Geral: R$ 14,00"
+
+  📚 ALUNO: LETICIA GABRIELE OLIVEIRA SANTOS
+"  💰 Total do Aluno: R$ 14,00"
+
+    Data,Valor (R$),Descrição do Consumo
+    ----------,------------,----------------------------------------
+    05/09/2025,"R$ 14,00",Produto não especificado
+
+
+--------------------------------------------------------------------------------
+RESPONSÁVEL #024
+--------------------------------------------------------------------------------
+Nome: ANDREZZA  DE FATIMA
+Telefone: (84) 99617-4939
+"Total Geral: R$ 29,00"
+
+  📚 ALUNO: JENIFFER MEDEIROS DANTAS
+"  💰 Total do Aluno: R$ 29,00"
+
+    Data,Valor (R$),Descrição do Consumo
+    ----------,------------,----------------------------------------
+    04/09/2025,"R$ 13,00",CASADINHA + PASTILHA
+    03/09/2025,"R$ 16,00",Produto não especificado
+
+
+--------------------------------------------------------------------------------
+RESPONSÁVEL #025
+--------------------------------------------------------------------------------
+Nome: ANDREZZA  SIMOES DA SILVA
+Telefone: (84) 99122-5923
+"Total Geral: R$ 56,00"
+
+  📚 ALUNO: GABRIEL WILLAMES DA SILVA ASEVEDO SIMÕES
+"  💰 Total do Aluno: R$ 56,00"
+
+    Data,Valor (R$),Descrição do Consumo
+    ----------,------------,----------------------------------------
+    28/08/2025,"R$ 6,00",Produto não especificado
+    27/08/2025,"R$ 12,00",CASADINHA + ÁGUA MINERAL (SEM GÁS)
+    25/08/2025,"R$ 11,00",Produto não especificado
+    04/09/2025,"R$ 9,00",Produto não especificado
+    03/09/2025,"R$ 9,00",CASADINHA
+    02/09/2025,"R$ 9,00",Produto não especificado
+
+
+--------------------------------------------------------------------------------
+RESPONSÁVEL #026
+--------------------------------------------------------------------------------
+Nome: ANDRÉA KALINE COSTA DA SILVA
+Telefone: (84) 99674-6544
+"Total Geral: R$ 20,00"
+
+  📚 ALUNO: MARIA ANGELINA DA SILVA VIANA
+"  💰 Total do Aluno: R$ 20,00"
+
+    Data,Valor (R$),Descrição do Consumo
+    ----------,------------,----------------------------------------
+    27/08/2025,"R$ 10,00",SALGADO + SUCOS (200ML)
+    02/09/2025,"R$ 10,00",SALGADO + SUCOS (200ML)
+
+
+--------------------------------------------------------------------------------
+RESPONSÁVEL #027
+--------------------------------------------------------------------------------
+Nome: ANNA PAULA ALCANTRA DA SILVA
+Telefone: (84) 99410-2763
+"Total Geral: R$ 20,00"
+
+  📚 ALUNO: MARIA PAULA ALCANTARA COELHO
+"  💰 Total do Aluno: R$ 20,00"
+
+    Data,Valor (R$),Descrição do Consumo
+    ----------,------------,----------------------------------------
+    05/09/2025,"R$ 10,00",ACHOCOLATADO
+    02/09/2025,"R$ 10,00",Produto não especificado
+
+
+--------------------------------------------------------------------------------
+RESPONSÁVEL #028
+--------------------------------------------------------------------------------
+Nome: ARQUIMEDES JOSE EPIFANIO DA SILVA
+Telefone: (84) 99628-5642
+"Total Geral: R$ 22,00"
+
+  📚 ALUNO: LÍVIA COSTA EPIFANIO
+"  💰 Total do Aluno: R$ 22,00"
+
+    Data,Valor (R$),Descrição do Consumo
+    ----------,------------,----------------------------------------
+    27/08/2025,"R$ 8,00",AÇAÍ (POTE 250ML)
+    05/09/2025,"R$ 6,00",Produto não especificado
+    02/09/2025,"R$ 8,00",AÇAÍ (POTE 250ML)
+
+
+--------------------------------------------------------------------------------
+RESPONSÁVEL #029
+--------------------------------------------------------------------------------
+Nome: ASENATE DAMARIS CAETANO DA ROCHA
+Telefone: (84) 98633-5080
+"Total Geral: R$ 24,00"
+
+  📚 ALUNO: MATEUS CAETANO DA ROCHA
+"  💰 Total do Aluno: R$ 24,00"
+
+    Data,Valor (R$),Descrição do Consumo
+    ----------,------------,----------------------------------------
+    27/08/2025,"R$ 8,00",Produto não especificado
+    04/09/2025,"R$ 8,00",CREME DE GUARANÁ
+    03/09/2025,"R$ 8,00",Produto não especificado
+
+
+--------------------------------------------------------------------------------
+RESPONSÁVEL #030
+--------------------------------------------------------------------------------
+Nome: AURICEA MARIA DE MEDEIROS
+Telefone: (84) 99962-5262
+"Total Geral: R$ 19,00"
+
+  📚 ALUNO: MARIA ANTÔNIA  MEDEIROS CANARIO
+"  💰 Total do Aluno: R$ 19,00"
+
+    Data,Valor (R$),Descrição do Consumo
+    ----------,------------,----------------------------------------
+    28/08/2025,"R$ 6,00",SALGADO
+    27/08/2025,"R$ 5,00",CUPCAKE
+    03/09/2025,"R$ 8,00",Produto não especificado
+
+
+--------------------------------------------------------------------------------
+RESPONSÁVEL #031
+--------------------------------------------------------------------------------
+Nome: BERENICE DE CARVALHO SOUSA
+Telefone: (84) 99907-0533
+"Total Geral: R$ 14,00"
+
+  📚 ALUNO: CRISTINA DE CARVALHO SOUSA
+"  💰 Total do Aluno: R$ 14,00"
+
+    Data,Valor (R$),Descrição do Consumo
+    ----------,------------,----------------------------------------
+    05/09/2025,"R$ 10,00",Produto não especificado
+    02/09/2025,"R$ 4,00",Produto não especificado
+
+
+--------------------------------------------------------------------------------
+RESPONSÁVEL #032
+--------------------------------------------------------------------------------
+Nome: BETANIA CARDOSO
+Telefone: (84) 99179-3377
+"Total Geral: R$ 119,00"
+
+  📚 ALUNO: ANNA BEATRIZ CARVAJAL CARDOSO
+"  💰 Total do Aluno: R$ 61,00"
+
+    Data,Valor (R$),Descrição do Consumo
+    ----------,------------,----------------------------------------
+    29/08/2025,"R$ 11,00",Produto não especificado
+    28/08/2025,"R$ 6,00",SALGADO
+    27/08/2025,"R$ 11,00",CUPCAKE + PÃO DE QUEIJO (PORÇÃO)
+    27/08/2025,"R$ 6,00",MINI-PIZZA
+    05/09/2025,"R$ 6,00",Produto não especificado
+    03/09/2025,"R$ 6,00",SALGADO
+    02/09/2025,"R$ 6,00",MINI-PIZZA
+    02/09/2025,"R$ 9,00",MINI-PIZZA + ÁGUA MINERAL (SEM GÁS)
+
+  📚 ALUNO: NATALIA VALENTINA CARVAJAL CARDOSO
+"  💰 Total do Aluno: R$ 58,00"
+
+    Data,Valor (R$),Descrição do Consumo
+    ----------,------------,----------------------------------------
+    29/08/2025,"R$ 8,00",AÇAÍ (POTE 250ML)
+    28/08/2025,"R$ 6,00",SALGADO
+    27/08/2025,"R$ 11,00",PÃO DE QUEIJO (PORÇÃO) + CUPCAKE
+    25/08/2025,"R$ 6,00",Produto não especificado
+    05/09/2025,"R$ 6,00",Produto não especificado
+    03/09/2025,"R$ 8,00",AÇAÍ (POTE 250ML)
+    02/09/2025,"R$ 6,00",SALGADO
+    02/09/2025,"R$ 7,00",HAMBURGUER ARTESANAL
+
+
+--------------------------------------------------------------------------------
+RESPONSÁVEL #033
+--------------------------------------------------------------------------------
+Nome: BETANIA SILVA DE ARAUJO MEDEIROS
+Telefone: (84) 98737-4150
+"Total Geral: R$ 51,00"
+
+  📚 ALUNO: DANILO MEDEIROS LUIZ FILHO
+"  💰 Total do Aluno: R$ 51,00"
+
+    Data,Valor (R$),Descrição do Consumo
+    ----------,------------,----------------------------------------
+    29/08/2025,"R$ 6,00",MINI-PIZZA
+    27/08/2025,"R$ 11,00",Produto não especificado
+    27/08/2025,"R$ 11,00",MINI-PIZZA + CUPCAKE
+    25/08/2025,"R$ 11,00",Produto não especificado
+    03/09/2025,"R$ 6,00",Produto não especificado
+    02/09/2025,"R$ 6,00",MINI-PIZZA
+
+
+--------------------------------------------------------------------------------
+RESPONSÁVEL #034
+--------------------------------------------------------------------------------
+Nome: CARLA PAVONE SANTISTEBAN
+Telefone: (11) 91450-3577
+"Total Geral: R$ 204,00"
+
+  📚 ALUNO: NATAN PAVONE SANTISTEBAN
+"  💰 Total do Aluno: R$ 81,00"
+
+    Data,Valor (R$),Descrição do Consumo
+    ----------,------------,----------------------------------------
+    29/08/2025,"R$ 9,00",Produto não especificado
+    27/08/2025,"R$ 14,00",CASADINHA + BOLO FATIA
+    27/08/2025,"R$ 9,00",CASADINHA
+    05/09/2025,"R$ 19,00",Produto não especificado
+    03/09/2025,"R$ 6,00",SALGADO
+    02/09/2025,"R$ 14,00",AÇAÍ (POTE 250ML) + MINI-PIZZA
+    02/09/2025,"R$ 10,00",MINI-PIZZA + SUCOS (200ML)
+
+  📚 ALUNO: SOFIA PAVONE SANTISTEBAN
+"  💰 Total do Aluno: R$ 123,00"
+
+    Data,Valor (R$),Descrição do Consumo
+    ----------,------------,----------------------------------------
+    29/08/2025,"R$ 10,00",Produto não especificado
+    28/08/2025,"R$ 11,00",Produto não especificado
+    27/08/2025,"R$ 5,00",CUPCAKE
+    27/08/2025,"R$ 14,00",CASADINHA + CUPCAKE
+    05/09/2025,"R$ 11,00",Produto não especificado
+    04/09/2025,"R$ 20,00",2x CHOCOLATE  + MINI-PIZZA + PASTILHA
+    03/09/2025,"R$ 5,00",BOLO FATIA
+    03/09/2025,"R$ 26,00",Produto não especificado
+    02/09/2025,"R$ 21,00",Produto não especificado
+
+
+--------------------------------------------------------------------------------
+RESPONSÁVEL #035
+--------------------------------------------------------------------------------
+Nome: CARLA SONEIDE DA SILVA OLIVEIRA BATISTA
+Telefone: (84) 9928-0582
+"Total Geral: R$ 52,00"
+
+  📚 ALUNO: ANNA LAURA DE OLIVEIRA ALVES
+"  💰 Total do Aluno: R$ 52,00"
+
+    Data,Valor (R$),Descrição do Consumo
+    ----------,------------,----------------------------------------
+    28/08/2025,"R$ 6,00",SALGADO
+    27/08/2025,"R$ 6,00",SALGADO
+    27/08/2025,"R$ 6,00",SALGADO
+    05/09/2025,"R$ 6,00",Produto não especificado
+    04/09/2025,"R$ 12,00",Produto não especificado
+    03/09/2025,"R$ 8,00",Produto não especificado
+    03/09/2025,"R$ 8,00",CREME DE NINHO
+
+
+--------------------------------------------------------------------------------
+RESPONSÁVEL #036
+--------------------------------------------------------------------------------
+Nome: CASSIA CASTILHO  MAROTTI
+Telefone: (84) 99902-9633
+"Total Geral: R$ 116,00"
+
+  📚 ALUNO: CAIO  CESAR CASTILHO MAROTTI  MACHADO
+"  💰 Total do Aluno: R$ 116,00"
+
+    Data,Valor (R$),Descrição do Consumo
+    ----------,------------,----------------------------------------
+    29/08/2025,"R$ 14,00",CASADINHA + CHOCOLATE
+    28/08/2025,"R$ 23,00",CASADINHA + AÇAÍ (POTE 250ML) + MINI-PIZZA
+    27/08/2025,"R$ 14,00",Produto não especificado
+    25/08/2025,"R$ 13,00",Produto não especificado
+    03/09/2025,"R$ 24,00",Produto não especificado
+    03/09/2025,"R$ 9,00",CASADINHA
+    02/09/2025,"R$ 19,00",CASADINHA + SALGADO + PASTILHA
+
+
+--------------------------------------------------------------------------------
+RESPONSÁVEL #037
+--------------------------------------------------------------------------------
+Nome: CHARLENE GABRIEL SOARES DE MELO
+Telefone: (84) 99943-0052
+"Total Geral: R$ 124,00"
+
+  📚 ALUNO: BERNADO SOARES DE MELO
+"  💰 Total do Aluno: R$ 72,00"
+
+    Data,Valor (R$),Descrição do Consumo
+    ----------,------------,----------------------------------------
+    29/08/2025,"R$ 8,00",AÇAÍ (POTE 250ML)
+    28/08/2025,"R$ 6,00",Produto não especificado
+    27/08/2025,"R$ 13,00",Produto não especificado
+    27/08/2025,"R$ 11,00",SALGADO + BOLO FATIA
+    05/09/2025,"R$ 12,00",2x MINI-PIZZA
+    03/09/2025,"R$ 8,00",Produto não especificado
+    02/09/2025,"R$ 8,00",AÇAÍ (POTE 250ML)
+    02/09/2025,"R$ 6,00",SALGADO
+
+  📚 ALUNO: GUILHERME SOARES DE  MELO
+"  💰 Total do Aluno: R$ 52,00"
+
+    Data,Valor (R$),Descrição do Consumo
+    ----------,------------,----------------------------------------
+    29/08/2025,"R$ 6,00",Produto não especificado
+    27/08/2025,"R$ 11,00",CUPCAKE + SALGADO
+    27/08/2025,"R$ 11,00",BOLO FATIA + SALGADO
+    25/08/2025,"R$ 6,00",Produto não especificado
+    03/09/2025,"R$ 6,00",Produto não especificado
+    02/09/2025,"R$ 12,00",Produto não especificado
+
+
+--------------------------------------------------------------------------------
+RESPONSÁVEL #038
+--------------------------------------------------------------------------------
+Nome: CHRISTIELLE DE LIMA CONRADO
+Telefone: (84) 98818-2616
+"Total Geral: R$ 6,00"
+
+  📚 ALUNO: KAUAN CONRADO DE LIMA
+"  💰 Total do Aluno: R$ 6,00"
+
+    Data,Valor (R$),Descrição do Consumo
+    ----------,------------,----------------------------------------
+    27/08/2025,"R$ 6,00",Produto não especificado
+
+
+--------------------------------------------------------------------------------
+RESPONSÁVEL #039
+--------------------------------------------------------------------------------
+Nome: CIBELE DE CASTRO REGO HERONILDES
+Telefone: (84) 99938-9333
+"Total Geral: R$ 39,00"
+
+  📚 ALUNO: LUIZ PEDRO REGO HERONILDES
+"  💰 Total do Aluno: R$ 39,00"
+
+    Data,Valor (R$),Descrição do Consumo
+    ----------,------------,----------------------------------------
+    29/08/2025,"R$ 11,00",SUCOS (200ML) + BOLO DE POTE
+    27/08/2025,"R$ 14,00",MINI-PIZZA + AÇAÍ (POTE 250ML)
+    02/09/2025,"R$ 14,00",Produto não especificado
+
+
+--------------------------------------------------------------------------------
+RESPONSÁVEL #040
+--------------------------------------------------------------------------------
+Nome: CLAUDIANA MARIA DE OLIVEIRA MARTINS
+Telefone: (84) 99988-0127
+"Total Geral: R$ 20,00"
+
+  📚 ALUNO: DAVI LUCAS MARTINS DE MEDEIROS
+"  💰 Total do Aluno: R$ 20,00"
+
+    Data,Valor (R$),Descrição do Consumo
+    ----------,------------,----------------------------------------
+    29/08/2025,"R$ 10,00",MINI-PIZZA + SUCOS (200ML)
+    25/08/2025,"R$ 10,00",Produto não especificado
+
+
+--------------------------------------------------------------------------------
+RESPONSÁVEL #041
+--------------------------------------------------------------------------------
+Nome: CRISTIANE D E CARVAL HO CAVAL CANTI GUIL ERM E
+Telefone: (84) 98869-9631
+"Total Geral: R$ 7,00"
+
+  📚 ALUNO: LUCAS DE CARVALHO GUILHERME
+"  💰 Total do Aluno: R$ 7,00"
+
+    Data,Valor (R$),Descrição do Consumo
+    ----------,------------,----------------------------------------
+    02/09/2025,"R$ 7,00",BOLO DE POTE
+
+
+--------------------------------------------------------------------------------
+RESPONSÁVEL #042
+--------------------------------------------------------------------------------
+Nome: CRISTIANNE MARCELLE MEDEIROS DOS SANTOS MELO
+Telefone: (84) 99111-7442
+"Total Geral: R$ 28,00"
+
+  📚 ALUNO: GIOVANNA MARCELLE DOS SANTOS MELO
+"  💰 Total do Aluno: R$ 28,00"
+
+    Data,Valor (R$),Descrição do Consumo
+    ----------,------------,----------------------------------------
+    27/08/2025,"R$ 11,00",SALGADO + CHOCOLATE
+    05/09/2025,"R$ 6,00",Produto não especificado
+    04/09/2025,"R$ 6,00",Produto não especificado
+    02/09/2025,"R$ 5,00",CHOCOLATE
+
+
+--------------------------------------------------------------------------------
+RESPONSÁVEL #043
+--------------------------------------------------------------------------------
+Nome: DANIELE  DUARTE MENDONÇA BARBOSA
+Telefone: (84) 99136-4246
+"Total Geral: R$ 45,00"
+
+  📚 ALUNO: LARISSA  DUARTE
+"  💰 Total do Aluno: R$ 16,00"
+
+    Data,Valor (R$),Descrição do Consumo
+    ----------,------------,----------------------------------------
+    27/08/2025,"R$ 6,00",MINI-PIZZA
+    25/08/2025,"R$ 10,00",Produto não especificado
+
+  📚 ALUNO: MELISSA DUARTE BARBOSA
+"  💰 Total do Aluno: R$ 29,00"
+
+    Data,Valor (R$),Descrição do Consumo
+    ----------,------------,----------------------------------------
+    29/08/2025,"R$ 6,00",SALGADO
+    27/08/2025,"R$ 5,00",BOLO FATIA
+    25/08/2025,"R$ 6,00",Produto não especificado
+    03/09/2025,"R$ 6,00",SALGADO
+    02/09/2025,"R$ 6,00",SALGADO
+
+
+--------------------------------------------------------------------------------
+RESPONSÁVEL #044
+--------------------------------------------------------------------------------
+Nome: DANIELE ROSEGLEI DA SILVA
+Telefone: (84) 98836-3315
+"Total Geral: R$ 22,00"
+
+  📚 ALUNO: RAFAEL DENISON DA SILVA
+"  💰 Total do Aluno: R$ 22,00"
+
+    Data,Valor (R$),Descrição do Consumo
+    ----------,------------,----------------------------------------
+    25/08/2025,"R$ 16,00",Produto não especificado
+    03/09/2025,"R$ 6,00",Produto não especificado
+
+
+--------------------------------------------------------------------------------
+RESPONSÁVEL #045
+--------------------------------------------------------------------------------
+Nome: DANIELLY CRISTINA BEZERRA DE SOUZA ALMEIDA
+Telefone: (84) 98831-8820
+"Total Geral: R$ 175,00"
+
+  📚 ALUNO: AMANDA SOUZA DE ALMEIDA
+"  💰 Total do Aluno: R$ 70,00"
+
+    Data,Valor (R$),Descrição do Consumo
+    ----------,------------,----------------------------------------
+    27/08/2025,"R$ 16,00",2x SALGADO + CHAMYTO
+    27/08/2025,"R$ 10,00",MINI-PIZZA + SUCOS (200ML)
+    05/09/2025,"R$ 10,00",Produto não especificado
+    03/09/2025,"R$ 14,00",SALGADO + 2x ACHOCOLATADO
+    02/09/2025,"R$ 10,00",MINI-PIZZA + ACHOCOLATADO
+    02/09/2025,"R$ 10,00",MINI-PIZZA + ACHOCOLATADO
+
+  📚 ALUNO: BEATRIZ SOUZA DE ALMEIDA
+"  💰 Total do Aluno: R$ 66,00"
+
+    Data,Valor (R$),Descrição do Consumo
+    ----------,------------,----------------------------------------
+    27/08/2025,"R$ 11,00",SALGADO + BOLO FATIA
+    27/08/2025,"R$ 10,00",SALGADO + ACHOCOLATADO
+    05/09/2025,"R$ 11,00",Produto não especificado
+    03/09/2025,"R$ 10,00",ACHOCOLATADO + SALGADO
+    02/09/2025,"R$ 10,00",MINI-PIZZA + SUCOS (200ML)
+    02/09/2025,"R$ 14,00",MINI-PIZZA + 2x ACHOCOLATADO
+
+  📚 ALUNO: YASMIN SOUZA DE ALMEIDA
+"  💰 Total do Aluno: R$ 39,00"
+
+    Data,Valor (R$),Descrição do Consumo
+    ----------,------------,----------------------------------------
+    28/08/2025,"R$ 11,00",MINI-PIZZA + CHOCOLATE
+    27/08/2025,"R$ 6,00",Produto não especificado
+    25/08/2025,"R$ 6,00",Produto não especificado
+    04/09/2025,"R$ 10,00",SALADA DE FRUTA GOURMET
+    03/09/2025,"R$ 6,00",Produto não especificado
+
+
+--------------------------------------------------------------------------------
+RESPONSÁVEL #046
+--------------------------------------------------------------------------------
+Nome: DAVI JUSTO SOARES
+Telefone: (84) 98895-6566
+"Total Geral: R$ 33,00"
+
+  📚 ALUNO: JOSHUA SOARES NACER JUSTO
+"  💰 Total do Aluno: R$ 33,00"
+
+    Data,Valor (R$),Descrição do Consumo
+    ----------,------------,----------------------------------------
+    05/09/2025,"R$ 8,00",Produto não especificado
+    05/09/2025,"R$ 7,00",Produto não especificado
+    03/09/2025,"R$ 5,00",Produto não especificado
+    02/09/2025,"R$ 6,00",CUSCUZ RECHEADO (POTE 250ML)
+    02/09/2025,"R$ 7,00",HAMBURGUER ARTESANAL
+
+
+--------------------------------------------------------------------------------
+RESPONSÁVEL #047
+--------------------------------------------------------------------------------
+Nome: DAYANNY  DUARTE  DE MOURA FERREIRA
+Telefone: (81) 99230-8915
+"Total Geral: R$ 61,00"
+
+  📚 ALUNO: PEDRO DUARTE DE MOURA FERREIRA
+"  💰 Total do Aluno: R$ 61,00"
+
+    Data,Valor (R$),Descrição do Consumo
+    ----------,------------,----------------------------------------
+    29/08/2025,"R$ 6,00",Produto não especificado
+    27/08/2025,"R$ 12,00",2x PÃO DE QUEIJO (PORÇÃO)
+    25/08/2025,"R$ 6,00",Produto não especificado
+    05/09/2025,"R$ 12,00",2x SALGADO
+    03/09/2025,"R$ 12,00",2x SALGADO
+    02/09/2025,"R$ 6,00",SALGADO
+    02/09/2025,"R$ 7,00",HAMBURGUER ARTESANAL
+
+
+--------------------------------------------------------------------------------
+RESPONSÁVEL #048
+--------------------------------------------------------------------------------
+Nome: DAYSE SOARES DOS SANTOS
+Telefone: (84) 99603-7483
+"Total Geral: R$ 34,00"
+
+  📚 ALUNO: LAURA SOARES CORREIA MUNIZ
+"  💰 Total do Aluno: R$ 34,00"
+
+    Data,Valor (R$),Descrição do Consumo
+    ----------,------------,----------------------------------------
+    29/08/2025,"R$ 4,00",Produto não especificado
+    27/08/2025,"R$ 10,00",CHAMYTO + SALGADO
+    27/08/2025,"R$ 10,00",MINI-PIZZA + CHAMYTO
+    25/08/2025,"R$ 10,00",Produto não especificado
+
+
+--------------------------------------------------------------------------------
+RESPONSÁVEL #049
+--------------------------------------------------------------------------------
+Nome: DIANA PACHECO
+Telefone: (47) 99783-7733
+"Total Geral: R$ 65,00"
+
+  📚 ALUNO: MARIA ISABEL PEREIRA DE ARAUJO
+"  💰 Total do Aluno: R$ 65,00"
+
+    Data,Valor (R$),Descrição do Consumo
+    ----------,------------,----------------------------------------
+    05/09/2025,"R$ 14,00",Produto não especificado
+    05/09/2025,"R$ 12,00",2x SALGADO
+    03/09/2025,"R$ 12,00",Produto não especificado
+    02/09/2025,"R$ 14,00",AÇAÍ (POTE 250ML) + SALGADO
+    02/09/2025,"R$ 13,00",SALGADO + BOLO DE POTE
+
+
+--------------------------------------------------------------------------------
+RESPONSÁVEL #050
+--------------------------------------------------------------------------------
+Nome: DIUANA  NUNES DA SILVA
+Telefone: (84) 99674-4904
+"Total Geral: R$ 51,00"
+
+  📚 ALUNO: RUAN NUNES FREIRE
+"  💰 Total do Aluno: R$ 51,00"
+
+    Data,Valor (R$),Descrição do Consumo
+    ----------,------------,----------------------------------------
+    29/08/2025,"R$ 11,00",SALGADO + CUPCAKE
+    27/08/2025,"R$ 8,00",AÇAÍ (POTE 250ML)
+    27/08/2025,"R$ 8,00",AÇAÍ (POTE 250ML)
+    04/09/2025,"R$ 8,00",Produto não especificado
+    03/09/2025,"R$ 8,00",Produto não especificado
+    02/09/2025,"R$ 8,00",REFRIGERANTE PET + PASTILHA
+
+
+--------------------------------------------------------------------------------
+RESPONSÁVEL #051
+--------------------------------------------------------------------------------
+Nome: DIÓGENES  PEREIRA DA SILVA
+Telefone: (84) 99978-1702
+"Total Geral: R$ 43,00"
+
+  📚 ALUNO: DIÓGENES PEREIRA DA SILVA FILHO
+"  💰 Total do Aluno: R$ 43,00"
+
+    Data,Valor (R$),Descrição do Consumo
+    ----------,------------,----------------------------------------
+    28/08/2025,"R$ 6,00",Produto não especificado
+    27/08/2025,"R$ 6,00",Produto não especificado
+    27/08/2025,"R$ 10,00",SALGADO + CHAMYTO
+    25/08/2025,"R$ 6,00",Produto não especificado
+    05/09/2025,"R$ 9,00",Produto não especificado
+    02/09/2025,"R$ 6,00",Produto não especificado
+
+
+--------------------------------------------------------------------------------
+RESPONSÁVEL #052
+--------------------------------------------------------------------------------
+Nome: EDIONE MENDONÇA  MACARIO
+Telefone: (84) 98781-1381
+"Total Geral: R$ 73,00"
+
+  📚 ALUNO: DANTE RANIERI MACARIO DA SIL VA
+"  💰 Total do Aluno: R$ 73,00"
+
+    Data,Valor (R$),Descrição do Consumo
+    ----------,------------,----------------------------------------
+    29/08/2025,"R$ 15,00",CAPPUCCINO 3 CORAÇÕES  + CHOCOLATE
+    28/08/2025,"R$ 20,00",MINI-PIZZA + CAPPUCCINO 3 CORAÇÕES  + PASTILHA
+    27/08/2025,"R$ 9,00",CASADINHA
+    27/08/2025,"R$ 13,00",Produto não especificado
+    25/08/2025,"R$ 16,00",Produto não especificado
+
+
+--------------------------------------------------------------------------------
+RESPONSÁVEL #053
+--------------------------------------------------------------------------------
+Nome: EDUARDO LIMA DE SANTANA
+Telefone: (84) 99613-1036
+"Total Geral: R$ 50,00"
+
+  📚 ALUNO: GABRIEL MARQUES DE SANTANA
+"  💰 Total do Aluno: R$ 50,00"
+
+    Data,Valor (R$),Descrição do Consumo
+    ----------,------------,----------------------------------------
+    27/08/2025,"R$ 10,00",SALGADO + SUCOS (200ML)
+    27/08/2025,"R$ 10,00",MINI-PIZZA + CHAMYTO
+    03/09/2025,"R$ 10,00",Produto não especificado
+    02/09/2025,"R$ 10,00",Produto não especificado
+    02/09/2025,"R$ 10,00",SALGADO + SUCOS (200ML)
+
+
+--------------------------------------------------------------------------------
+RESPONSÁVEL #054
+--------------------------------------------------------------------------------
+Nome: ELAINNE VANESSA DE ANDRADE CLEMENTINO
+Telefone: (84) 99659-1100
+"Total Geral: R$ 23,00"
+
+  📚 ALUNO: LAURA DE ANDRADE ALVES CLEMENTINO
+"  💰 Total do Aluno: R$ 23,00"
+
+    Data,Valor (R$),Descrição do Consumo
+    ----------,------------,----------------------------------------
+    27/08/2025,"R$ 9,00",SUCOS (200ML) + TORRADA / MISTO QUENTE
+    27/08/2025,"R$ 4,00",SUCOS (200ML)
+    25/08/2025,"R$ 7,00",Produto não especificado
+    03/09/2025,"R$ 3,00",Produto não especificado
+
+
+--------------------------------------------------------------------------------
+RESPONSÁVEL #055
+--------------------------------------------------------------------------------
+Nome: ELIANA CARLA GOMES DE ALBUQUERQUE MONTEIRO
+Telefone: (84) 99933-0520
+"Total Geral: R$ 19,00"
+
+  📚 ALUNO: ALICE DE ALBUQUERQUE MONTEIRO
+"  💰 Total do Aluno: R$ 19,00"
+
+    Data,Valor (R$),Descrição do Consumo
+    ----------,------------,----------------------------------------
+    29/08/2025,"R$ 7,00",BOLO DE POTE
+    28/08/2025,"R$ 4,00",Produto não especificado
+    02/09/2025,"R$ 4,00",ACHOCOLATADO
+    02/09/2025,"R$ 4,00",ACHOCOLATADO
+
+
+--------------------------------------------------------------------------------
+RESPONSÁVEL #056
+--------------------------------------------------------------------------------
+Nome: ELIANDERSON  OLIVEIRA DOS SANTOS
+Telefone: (84) 99966-4023
+"Total Geral: R$ 8,00"
+
+  📚 ALUNO: LOUISE  REBEKA DINIZ DOS SANTOS
+"  💰 Total do Aluno: R$ 8,00"
+
+    Data,Valor (R$),Descrição do Consumo
+    ----------,------------,----------------------------------------
+    27/08/2025,"R$ 8,00",AÇAÍ (POTE 250ML)
+
+
+--------------------------------------------------------------------------------
+RESPONSÁVEL #057
+--------------------------------------------------------------------------------
+Nome: ELIANE DA SILVA RODRIGUES
+Telefone: (84) 98843-0301
+"Total Geral: R$ 7,00"
+
+  📚 ALUNO: YOHANN CRISTHIAN R T  DE ALBUQUERQUE
+"  💰 Total do Aluno: R$ 7,00"
+
+    Data,Valor (R$),Descrição do Consumo
+    ----------,------------,----------------------------------------
+    04/09/2025,"R$ 7,00",HAMBURGUER ARTESANAL
+
+
+--------------------------------------------------------------------------------
+RESPONSÁVEL #058
+--------------------------------------------------------------------------------
+Nome: ELIONORA  BATISTA DOS SANTOS
+Telefone: (84) 99603-7103
+"Total Geral: R$ 47,00"
+
+  📚 ALUNO: EVELYN BATISTA DE FREITAS
+"  💰 Total do Aluno: R$ 47,00"
+
+    Data,Valor (R$),Descrição do Consumo
+    ----------,------------,----------------------------------------
+    29/08/2025,"R$ 9,00",CASADINHA
+    28/08/2025,"R$ 29,00",2x ACHOCOLATADO + 2x SALGADO + CASADINHA
+    27/08/2025,"R$ 9,00",CASADINHA
+
+
+--------------------------------------------------------------------------------
+RESPONSÁVEL #059
+--------------------------------------------------------------------------------
+Nome: ELISANDRA MARIA DA SILVA ANTAS
+Telefone: (84) 98141-1455
+"Total Geral: R$ 16,00"
+
+  📚 ALUNO: ANA REBECA SILVA ANTAS
+"  💰 Total do Aluno: R$ 12,00"
+
+    Data,Valor (R$),Descrição do Consumo
+    ----------,------------,----------------------------------------
+    03/09/2025,"R$ 6,00",SALGADO
+    03/09/2025,"R$ 6,00",Produto não especificado
+
+  📚 ALUNO: JOÃO VITOR SILVA ANTAS
+"  💰 Total do Aluno: R$ 4,00"
+
+    Data,Valor (R$),Descrição do Consumo
+    ----------,------------,----------------------------------------
+    05/09/2025,"R$ 4,00",Produto não especificado
+
+
+--------------------------------------------------------------------------------
+RESPONSÁVEL #060
+--------------------------------------------------------------------------------
+Nome: ELIZANDRO  HEBERT  RENOVATO  DE MIRANDA
+Telefone: (84) 99608-0613
+"Total Geral: R$ 56,00"
+
+  📚 ALUNO: GIOVANNA DAVILA DE MIRANDA
+"  💰 Total do Aluno: R$ 56,00"
+
+    Data,Valor (R$),Descrição do Consumo
+    ----------,------------,----------------------------------------
+    28/08/2025,"R$ 6,00",SALGADO
+    27/08/2025,"R$ 8,00",AÇAÍ (POTE 250ML)
+    25/08/2025,"R$ 9,00",Produto não especificado
+    04/09/2025,"R$ 6,00",SALGADO
+    03/09/2025,"R$ 9,00",Produto não especificado
+    03/09/2025,"R$ 9,00",CASADINHA
+    02/09/2025,"R$ 9,00",CASADINHA
+
+
+--------------------------------------------------------------------------------
+RESPONSÁVEL #061
+--------------------------------------------------------------------------------
+Nome: EMILIANE FRANCISCA DA SILVA LUCENA
+Telefone: (84) 99469-6464
+"Total Geral: R$ 99,00"
+
+  📚 ALUNO: YANE SOPHIA  LUCENA
+"  💰 Total do Aluno: R$ 99,00"
+
+    Data,Valor (R$),Descrição do Consumo
+    ----------,------------,----------------------------------------
+    29/08/2025,"R$ 16,00",CAPPUCCINO 3 CORAÇÕES  + SANDUÍCHE NATURAL
+    28/08/2025,"R$ 16,00",MINI-PIZZA + CAPPUCCINO 3 CORAÇÕES
+    27/08/2025,"R$ 16,00",CAPPUCCINO 3 CORAÇÕES  + SALGADO
+    27/08/2025,"R$ 10,00",CHAMYTO + MINI-PIZZA
+    04/09/2025,"R$ 7,00",Produto não especificado
+    03/09/2025,"R$ 9,00",Produto não especificado
+    03/09/2025,"R$ 9,00",CASADINHA
+    02/09/2025,"R$ 16,00",MINI-PIZZA + CAPPUCCINO 3 CORAÇÕES
+
+
+--------------------------------------------------------------------------------
+RESPONSÁVEL #062
+--------------------------------------------------------------------------------
+Nome: EMILVA DANTAS DA SILVA MENDONÇA
+Telefone: (84) 99942-3526
+"Total Geral: R$ 24,00"
+
+  📚 ALUNO: PEDRO GABRIEL DANTAS DE MENDONÇA
+"  💰 Total do Aluno: R$ 24,00"
+
+    Data,Valor (R$),Descrição do Consumo
+    ----------,------------,----------------------------------------
+    29/08/2025,"R$ 10,00",Produto não especificado
+    27/08/2025,"R$ 8,00",Produto não especificado
+    05/09/2025,"R$ 6,00",Produto não especificado
+
+
+--------------------------------------------------------------------------------
+RESPONSÁVEL #063
+--------------------------------------------------------------------------------
+Nome: ERIKA HERONILDES COSTA DA SILVA
+Telefone: (84) 99401-1321
+"Total Geral: R$ 32,00"
+
+  📚 ALUNO: LUCAS GABRIEL HERONILDES CALDAS
+"  💰 Total do Aluno: R$ 32,00"
+
+    Data,Valor (R$),Descrição do Consumo
+    ----------,------------,----------------------------------------
+    29/08/2025,"R$ 9,00",CASADINHA
+    28/08/2025,"R$ 9,00",CASADINHA
+    27/08/2025,"R$ 6,00",Produto não especificado
+    27/08/2025,"R$ 4,00",PASTILHA
+    03/09/2025,"R$ 4,00",Produto não especificado
+
+
+--------------------------------------------------------------------------------
+RESPONSÁVEL #064
+--------------------------------------------------------------------------------
+Nome: ERIKA PRISCILLA
+Telefone: (84) 99621-1919
+"Total Geral: R$ 243,00"
+
+  📚 ALUNO: ELIAS  DOS SANTOS
+"  💰 Total do Aluno: R$ 77,00"
+
+    Data,Valor (R$),Descrição do Consumo
+    ----------,------------,----------------------------------------
+    29/08/2025,"R$ 9,00",Produto não especificado
+    27/08/2025,"R$ 11,00",BOLO FATIA + SALGADO
+    27/08/2025,"R$ 10,00",IOGURTE + BOLO FATIA
+    25/08/2025,"R$ 10,00",Produto não especificado
+    05/09/2025,"R$ 6,00",Produto não especificado
+    05/09/2025,"R$ 13,00",AÇAÍ (POTE 250ML) + IOGURTE
+    03/09/2025,"R$ 10,00",ACHOCOLATADO + PÃO DE QUEIJO (PORÇÃO)
+    02/09/2025,"R$ 8,00",CREME DE NINHO
+
+  📚 ALUNO: ESTER  DOS SANTOS
+"  💰 Total do Aluno: R$ 75,00"
+
+    Data,Valor (R$),Descrição do Consumo
+    ----------,------------,----------------------------------------
+    29/08/2025,"R$ 9,00",CASADINHA
+    28/08/2025,"R$ 4,00",PASTILHA
+    27/08/2025,"R$ 9,00",CASADINHA
+    25/08/2025,"R$ 10,00",Produto não especificado
+    05/09/2025,"R$ 6,00",SALGADO
+    04/09/2025,"R$ 11,00",Produto não especificado
+    03/09/2025,"R$ 10,00",Produto não especificado
+    03/09/2025,"R$ 9,00",CASADINHA
+    02/09/2025,"R$ 7,00",BOLO DE POTE
+
+  📚 ALUNO: NOEL AUGUSTO DOS SANTOS NETO
+"  💰 Total do Aluno: R$ 91,00"
+
+    Data,Valor (R$),Descrição do Consumo
+    ----------,------------,----------------------------------------
+    29/08/2025,"R$ 9,00",CUPCAKE + ACHOCOLATADO
+    28/08/2025,"R$ 13,00",MINI-PIZZA + ACHOCOLATADO + ÁGUA MINERAL (SEM GÁS)
+    27/08/2025,"R$ 10,00",SALGADO + ACHOCOLATADO
+    27/08/2025,"R$ 10,00",SALGADO + ACHOCOLATADO
+    25/08/2025,"R$ 10,00",Produto não especificado
+    05/09/2025,"R$ 6,00",Produto não especificado
+    03/09/2025,"R$ 9,00",SALGADO + ÁGUA MINERAL (SEM GÁS)
+    02/09/2025,"R$ 10,00",SALGADO + ACHOCOLATADO
+    02/09/2025,"R$ 14,00",BOLO DE POTE + HAMBURGUER ARTESANAL
+
+
+--------------------------------------------------------------------------------
+RESPONSÁVEL #065
+--------------------------------------------------------------------------------
+Nome: ERIKACIA DA SILVA BATISTA DOURADO
+Telefone: (84) 99956-0000
+"Total Geral: R$ 18,00"
+
+  📚 ALUNO: BEATRIZ BATISTA DOURADO
+"  💰 Total do Aluno: R$ 18,00"
+
+    Data,Valor (R$),Descrição do Consumo
+    ----------,------------,----------------------------------------
+    27/08/2025,"R$ 6,00",Produto não especificado
+    05/09/2025,"R$ 6,00",SALGADO
+    03/09/2025,"R$ 6,00",Produto não especificado
+
+
+--------------------------------------------------------------------------------
+RESPONSÁVEL #066
+--------------------------------------------------------------------------------
+Nome: FABIANA FREIRE RODRIGUES DE MEDEIROS
+Telefone: (84) 99844-5974
+"Total Geral: R$ 12,00"
+
+  📚 ALUNO: NÍVEA MELISSA RODRIGUES DE MEDEIROS
+"  💰 Total do Aluno: R$ 12,00"
+
+    Data,Valor (R$),Descrição do Consumo
+    ----------,------------,----------------------------------------
+    27/08/2025,"R$ 6,00",SALGADO
+    03/09/2025,"R$ 6,00",Produto não especificado
+
+
+--------------------------------------------------------------------------------
+RESPONSÁVEL #067
+--------------------------------------------------------------------------------
+Nome: FELIPE  LANDEIRA
+Telefone: (84) 99669-3344
+"Total Geral: R$ 17,00"
+
+  📚 ALUNO: DANIEL LANDEIRA
+"  💰 Total do Aluno: R$ 17,00"
+
+    Data,Valor (R$),Descrição do Consumo
+    ----------,------------,----------------------------------------
+    28/08/2025,"R$ 4,00",ACHOCOLATADO
+    27/08/2025,"R$ 4,00",SUCOS (200ML)
+    27/08/2025,"R$ 5,00",CUPCAKE
+    05/09/2025,"R$ 4,00",SUCOS (200ML)
+
+
+--------------------------------------------------------------------------------
+RESPONSÁVEL #068
+--------------------------------------------------------------------------------
+Nome: FELYCIANA BARRETO BEZERRA LOURENÇO
+Telefone: (84) 99207-3665
+"Total Geral: R$ 4,00"
+
+  📚 ALUNO: GABRIEL BARRETO BEZERRA LOURENÇO
+"  💰 Total do Aluno: R$ 4,00"
+
+    Data,Valor (R$),Descrição do Consumo
+    ----------,------------,----------------------------------------
+    02/09/2025,"R$ 4,00",Produto não especificado
+
+
+--------------------------------------------------------------------------------
+RESPONSÁVEL #069
+--------------------------------------------------------------------------------
+Nome: FERNANDA CRISTINA DA SILVA MEDEIROS
+Telefone: (84) 98747-4929
+"Total Geral: R$ 72,00"
+
+  📚 ALUNO: JHULIA CRISTINA MEDEIROS DA SILVA
+"  💰 Total do Aluno: R$ 72,00"
+
+    Data,Valor (R$),Descrição do Consumo
+    ----------,------------,----------------------------------------
+    27/08/2025,"R$ 11,00",MINI-PIZZA + BOLO FATIA
+    27/08/2025,"R$ 10,00",MINI-PIZZA + SUCOS (200ML)
+    25/08/2025,"R$ 10,00",Produto não especificado
+    05/09/2025,"R$ 10,00",Produto não especificado
+    03/09/2025,"R$ 10,00",MINI-PIZZA + ACHOCOLATADO
+    02/09/2025,"R$ 10,00",SALGADO + SUCOS (200ML)
+    02/09/2025,"R$ 11,00",Produto não especificado
+
+
+--------------------------------------------------------------------------------
+RESPONSÁVEL #070
+--------------------------------------------------------------------------------
+Nome: FERNANDA EDIKA DE SOUZA LOPES
+Telefone: (84) 99889-2944
+"Total Geral: R$ 93,00"
+
+  📚 ALUNO: FERNANDO OTAVIO RODRIGUES DE SOUZA
+"  💰 Total do Aluno: R$ 93,00"
+
+    Data,Valor (R$),Descrição do Consumo
+    ----------,------------,----------------------------------------
+    27/08/2025,"R$ 10,00",SALGADO + CHAMYTO
+    27/08/2025,"R$ 18,00",MINI-PIZZA + AÇAÍ (POTE 250ML) + CHAMYTO
+    25/08/2025,"R$ 13,00",Produto não especificado
+    05/09/2025,"R$ 18,00",Produto não especificado
+    03/09/2025,"R$ 10,00",CHAMYTO + PÃO DE QUEIJO (PORÇÃO)
+    02/09/2025,"R$ 9,00",CHAMYTO + TORRADA / MISTO QUENTE
+    02/09/2025,"R$ 15,00",CUPCAKE + CHAMYTO + SALGADO
+
+
+--------------------------------------------------------------------------------
+RESPONSÁVEL #071
+--------------------------------------------------------------------------------
+Nome: FERNANDA THEMES SILVA NASCIMENTO  FERNANDES
+Telefone: (84) 9195-3317
+"Total Geral: R$ 23,00"
+
+  📚 ALUNO: LETICIA SILVA FERNANDES
+"  💰 Total do Aluno: R$ 23,00"
+
+    Data,Valor (R$),Descrição do Consumo
+    ----------,------------,----------------------------------------
+    28/08/2025,"R$ 6,00",Produto não especificado
+    27/08/2025,"R$ 9,00",ÁGUA MINERAL (SEM GÁS) + SALGADO
+    04/09/2025,"R$ 8,00",Produto não especificado
+
+
+--------------------------------------------------------------------------------
+RESPONSÁVEL #072
+--------------------------------------------------------------------------------
+Nome: FLAVIA DE OLIVEIRA GOMES DE ARAÚJO
+Telefone: (84) 99933-2065
+"Total Geral: R$ 5,00"
+
+  📚 ALUNO: PIETRO GOMES DE ARAÚJO
+"  💰 Total do Aluno: R$ 5,00"
+
+    Data,Valor (R$),Descrição do Consumo
+    ----------,------------,----------------------------------------
+    27/08/2025,"R$ 5,00",CUPCAKE
+
+
+--------------------------------------------------------------------------------
+RESPONSÁVEL #073
+--------------------------------------------------------------------------------
+Nome: FLAVIA SILVA DE MACEDO
+Telefone: (84) 99407-0542
+"Total Geral: R$ 5,00"
+
+  📚 ALUNO: ARTHUR MACEDO DE ARAUJO
+"  💰 Total do Aluno: R$ 5,00"
+
+    Data,Valor (R$),Descrição do Consumo
+    ----------,------------,----------------------------------------
+    27/08/2025,"R$ 5,00",CUPCAKE
+
+
+--------------------------------------------------------------------------------
+RESPONSÁVEL #074
+--------------------------------------------------------------------------------
+Nome: FLAVIANA BEZERRA LEAO FONSECA
+Telefone: (84) 99913-7563
+"Total Geral: R$ 63,00"
+
+  📚 ALUNO: LEVI MIGUEL
+"  💰 Total do Aluno: R$ 63,00"
+
+    Data,Valor (R$),Descrição do Consumo
+    ----------,------------,----------------------------------------
+    27/08/2025,"R$ 13,00",AÇAÍ (POTE 250ML) + IOGURTE
+    27/08/2025,"R$ 8,00",AÇAÍ (POTE 250ML)
+    25/08/2025,"R$ 10,00",Produto não especificado
+    05/09/2025,"R$ 8,00",Produto não especificado
+    03/09/2025,"R$ 8,00",AÇAÍ (POTE 250ML)
+    02/09/2025,"R$ 8,00",AÇAÍ (POTE 250ML)
+    02/09/2025,"R$ 8,00",CREME DE NINHO
+
+
+--------------------------------------------------------------------------------
+RESPONSÁVEL #075
+--------------------------------------------------------------------------------
+Nome: FLAVIO FIGUEREDO SEGUNDO
+Telefone: (84) 99121-5551
+"Total Geral: R$ 12,00"
+
+  📚 ALUNO: CAIO GAEL PAIVA AZEVEDO FIGUEREDO
+"  💰 Total do Aluno: R$ 12,00"
+
+    Data,Valor (R$),Descrição do Consumo
+    ----------,------------,----------------------------------------
+    05/09/2025,"R$ 6,00",Produto não especificado
+    02/09/2025,"R$ 6,00",MINI-PIZZA
+
+
+--------------------------------------------------------------------------------
+RESPONSÁVEL #076
+--------------------------------------------------------------------------------
+Nome: FRANCIDALVA PEDRO DOS SANTOS
+Telefone: (84) 98795-1324
+"Total Geral: R$ 67,00"
+
+  📚 ALUNO: DAVI PEDRO LYRA BARROS
+"  💰 Total do Aluno: R$ 67,00"
+
+    Data,Valor (R$),Descrição do Consumo
+    ----------,------------,----------------------------------------
+    28/08/2025,"R$ 5,00",BOLO FATIA
+    27/08/2025,"R$ 9,00",CASADINHA
+    27/08/2025,"R$ 14,00",Produto não especificado
+    04/09/2025,"R$ 10,00",CHAMYTO + SALGADO
+    03/09/2025,"R$ 4,00",Produto não especificado
+    03/09/2025,"R$ 13,00",CASADINHA + CHAMYTO
+    02/09/2025,"R$ 12,00",2x MINI-PIZZA
+
+
+--------------------------------------------------------------------------------
+RESPONSÁVEL #077
+--------------------------------------------------------------------------------
+Nome: GABRIELA ARAUJO SARAIVA NERY
+Telefone: (84) 99483-4545
+"Total Geral: R$ 34,00"
+
+  📚 ALUNO: BERNARDO SARAIVA NERY RODRIGUES
+"  💰 Total do Aluno: R$ 16,00"
+
+    Data,Valor (R$),Descrição do Consumo
+    ----------,------------,----------------------------------------
+    29/08/2025,"R$ 6,00",MINI-PIZZA
+    27/08/2025,"R$ 6,00",MINI-PIZZA
+    05/09/2025,"R$ 4,00",SUCOS (200ML)
+
+  📚 ALUNO: MARILIA SARAIVA NERY RODRIGUES
+"  💰 Total do Aluno: R$ 18,00"
+
+    Data,Valor (R$),Descrição do Consumo
+    ----------,------------,----------------------------------------
+    27/08/2025,"R$ 9,00",CASADINHA
+    27/08/2025,"R$ 3,00",ÁGUA MINERAL (SEM GÁS)
+    03/09/2025,"R$ 6,00",SALGADO
+
+
+--------------------------------------------------------------------------------
+RESPONSÁVEL #078
+--------------------------------------------------------------------------------
+Nome: GENIFFER LIMA DE BRITO MELO
+Telefone: (84) 98610-0115
+"Total Geral: R$ 41,00"
+
+  📚 ALUNO: BRUNO  MIGUEL
+"  💰 Total do Aluno: R$ 41,00"
+
+    Data,Valor (R$),Descrição do Consumo
+    ----------,------------,----------------------------------------
+    29/08/2025,"R$ 10,00",MINI-PIZZA + ACHOCOLATADO
+    28/08/2025,"R$ 16,00",Produto não especificado
+    27/08/2025,"R$ 15,00",SALGADO + CUPCAKE + CHAMYTO
+
+
+--------------------------------------------------------------------------------
+RESPONSÁVEL #079
+--------------------------------------------------------------------------------
+Nome: GISLAINE TCHARLIANE CARDOSO PEREIRA DA COSTA
+Telefone: (84) 98737-0327
+"Total Geral: R$ 89,00"
+
+  📚 ALUNO: LIVIA CARDOSO DE MELO ELIAS
+"  💰 Total do Aluno: R$ 69,00"
+
+    Data,Valor (R$),Descrição do Consumo
+    ----------,------------,----------------------------------------
+    27/08/2025,"R$ 14,00",AÇAÍ (POTE 250ML) + MINI-PIZZA
+    27/08/2025,"R$ 14,00",MINI-PIZZA + AÇAÍ (POTE 250ML)
+    05/09/2025,"R$ 8,00",Produto não especificado
+    05/09/2025,"R$ 14,00",Produto não especificado
+    02/09/2025,"R$ 13,00",Produto não especificado
+    02/09/2025,"R$ 6,00",SALGADO
+
+  📚 ALUNO: THALITA  CARDOSO DE MELO ELIAS
+"  💰 Total do Aluno: R$ 20,00"
+
+    Data,Valor (R$),Descrição do Consumo
+    ----------,------------,----------------------------------------
+    27/08/2025,"R$ 10,00",Produto não especificado
+    04/09/2025,"R$ 10,00",Produto não especificado
+
+
+--------------------------------------------------------------------------------
+RESPONSÁVEL #080
+--------------------------------------------------------------------------------
+Nome: GIULLIANE  ROCHA BOTARELI DANTAS
+Telefone: (84) 98722-2860
+"Total Geral: R$ 27,00"
+
+  📚 ALUNO: ERIK BOTARELI DANTAS
+"  💰 Total do Aluno: R$ 27,00"
+
+    Data,Valor (R$),Descrição do Consumo
+    ----------,------------,----------------------------------------
+    05/09/2025,"R$ 11,00",Produto não especificado
+    02/09/2025,"R$ 16,00",SUCOS (200ML) + HAMBURGUER ARTESANAL + CHOCOLATE
+
+
+--------------------------------------------------------------------------------
+RESPONSÁVEL #081
+--------------------------------------------------------------------------------
+Nome: GLADYS NUNES VIEIRA
+Telefone: (84) 99988-5276
+"Total Geral: R$ 40,00"
+
+  📚 ALUNO: HANNAH GABRIELL E NUNES DE MOURA
+"  💰 Total do Aluno: R$ 40,00"
+
+    Data,Valor (R$),Descrição do Consumo
+    ----------,------------,----------------------------------------
+    28/08/2025,"R$ 4,00",PASTILHA
+    27/08/2025,"R$ 9,00",CASADINHA
+    04/09/2025,"R$ 9,00",CASADINHA
+    03/09/2025,"R$ 9,00",Produto não especificado
+    03/09/2025,"R$ 9,00",CASADINHA
+
+
+--------------------------------------------------------------------------------
+RESPONSÁVEL #082
+--------------------------------------------------------------------------------
+Nome: GÊUZILENE EM ANUEL L E CRUZ D E FRANÇA D AS CHAGAS
+Telefone: (84) 99135-6543
+"Total Geral: R$ 18,00"
+
+  📚 ALUNO: ARTHUR EMANUEL CRUZ DAS CHAGAS
+"  💰 Total do Aluno: R$ 18,00"
+
+    Data,Valor (R$),Descrição do Consumo
+    ----------,------------,----------------------------------------
+    25/08/2025,"R$ 6,00",Produto não especificado
+    03/09/2025,"R$ 12,00",AÇAÍ (POTE 250ML) + FRUTAS (UNIDADE)
+
+
+--------------------------------------------------------------------------------
+RESPONSÁVEL #083
+--------------------------------------------------------------------------------
+Nome: HAGAR MARIA DE ANDRADE PINHEIRO
+Telefone: (84) 98726-1238
+"Total Geral: R$ 19,00"
+
+  📚 ALUNO: SOPHIA MARIA DE ANDRADE PINHEIRO
+"  💰 Total do Aluno: R$ 19,00"
+
+    Data,Valor (R$),Descrição do Consumo
+    ----------,------------,----------------------------------------
+    29/08/2025,"R$ 19,00",2x BOLO FATIA + CUPCAKE + ACHOCOLATADO
+
+
+--------------------------------------------------------------------------------
+RESPONSÁVEL #084
+--------------------------------------------------------------------------------
+Nome: HELENA LEITE DA SILVA ALENCAR
+Telefone: (84) 99921-7277
+"Total Geral: R$ 59,00"
+
+  📚 ALUNO: THALLYTA LEITE DA SILVA ALENCAR
+"  💰 Total do Aluno: R$ 59,00"
+
+    Data,Valor (R$),Descrição do Consumo
+    ----------,------------,----------------------------------------
+    28/08/2025,"R$ 28,00",2x SALGADO + 2x AÇAÍ (POTE 250ML)
+    04/09/2025,"R$ 12,00",2x MINI-PIZZA
+    03/09/2025,"R$ 6,00",Produto não especificado
+    02/09/2025,"R$ 13,00",BOLO DE POTE + MINI-PIZZA
+
+
+--------------------------------------------------------------------------------
+RESPONSÁVEL #085
+--------------------------------------------------------------------------------
+Nome: IRANIR RIBEIRO DA SILVA BATISTA
+Telefone: (84) 99497-2791
+"Total Geral: R$ 90,00"
+
+  📚 ALUNO: ANNA LUIZA RIBEIRO BATISTA DA SILVA
+"  💰 Total do Aluno: R$ 20,00"
+
+    Data,Valor (R$),Descrição do Consumo
+    ----------,------------,----------------------------------------
+    27/08/2025,"R$ 10,00",SALGADO + SUCOS (200ML)
+    02/09/2025,"R$ 10,00",SUCOS (200ML) + SALGADO
+
+  📚 ALUNO: EVELLYN  KAROLINE RIBEIRO BATISTA DA SILV A
+"  💰 Total do Aluno: R$ 70,00"
+
+    Data,Valor (R$),Descrição do Consumo
+    ----------,------------,----------------------------------------
+    28/08/2025,"R$ 20,00",Produto não especificado
+    27/08/2025,"R$ 26,00",2x SALGADO + ALMOÇO
+    04/09/2025,"R$ 12,00",2x MINI-PIZZA
+    03/09/2025,"R$ 12,00",Produto não especificado
+
+
+--------------------------------------------------------------------------------
+RESPONSÁVEL #086
+--------------------------------------------------------------------------------
+Nome: ISABELLY THUANY DE FREITAS CARVALHO
+Telefone: (84) 98749-8220
+"Total Geral: R$ 44,00"
+
+  📚 ALUNO: THEODORO BENÍCIO FREITAS DE MEDEIROS
+"  💰 Total do Aluno: R$ 44,00"
+
+    Data,Valor (R$),Descrição do Consumo
+    ----------,------------,----------------------------------------
+    29/08/2025,"R$ 10,00",MINI-PIZZA + ACHOCOLATADO
+    28/08/2025,"R$ 5,00",TAPIOCA RECHEADA
+    27/08/2025,"R$ 9,00",ACHOCOLATADO + CUPCAKE
+    27/08/2025,"R$ 10,00",ACHOCOLATADO + MINI-PIZZA
+    02/09/2025,"R$ 10,00",MINI-PIZZA + ACHOCOLATADO
+
+
+--------------------------------------------------------------------------------
+RESPONSÁVEL #087
+--------------------------------------------------------------------------------
+Nome: JACIANE FERREIRA DE LIMA VIDAL
+Telefone: (84) 98735-5693
+"Total Geral: R$ 78,00"
+
+  📚 ALUNO: ARIANE VITÓRIA DE LIMA VIDAL
+"  💰 Total do Aluno: R$ 78,00"
+
+    Data,Valor (R$),Descrição do Consumo
+    ----------,------------,----------------------------------------
+    28/08/2025,"R$ 9,00",CUPCAKE + ACHOCOLATADO
+    27/08/2025,"R$ 10,00",CUPCAKE + IOGURTE
+    27/08/2025,"R$ 13,00",ACHOCOLATADO + TORRADA / MISTO QUENTE + FRUTAS (UNIDADE)
+    05/09/2025,"R$ 10,00",SALGADO + ACHOCOLATADO
+    03/09/2025,"R$ 14,00",MINI-PIZZA + ACHOCOLATADO + FRUTAS (UNIDADE)
+    02/09/2025,"R$ 12,00",ACHOCOLATADO + CREME DE NINHO
+    02/09/2025,"R$ 10,00",MINI-PIZZA + CHAMYTO
+
+
+--------------------------------------------------------------------------------
+RESPONSÁVEL #088
+--------------------------------------------------------------------------------
+Nome: JACQUELINE EVANGELISTA DE SOUSA
+Telefone: (84) 98819-1624
+"Total Geral: R$ 134,00"
+
+  📚 ALUNO: JEAN MIGUEL FERREIRA  DE SOUSA
+"  💰 Total do Aluno: R$ 76,00"
+
+    Data,Valor (R$),Descrição do Consumo
+    ----------,------------,----------------------------------------
+    29/08/2025,"R$ 9,00",CASADINHA
+    27/08/2025,"R$ 13,00",CASADINHA + PASTILHA
+    27/08/2025,"R$ 13,00",Produto não especificado
+    05/09/2025,"R$ 15,00",REFRIGERANTE PET + HAMBURGUER ARTESANAL + PASTILHA
+    04/09/2025,"R$ 17,00",Produto não especificado
+    03/09/2025,"R$ 9,00",Produto não especificado
+
+  📚 ALUNO: JUAN MATIAS FERREIRA DE SOUSA
+"  💰 Total do Aluno: R$ 58,00"
+
+    Data,Valor (R$),Descrição do Consumo
+    ----------,------------,----------------------------------------
+    27/08/2025,"R$ 10,00",SALGADO + SUCOS (200ML)
+    27/08/2025,"R$ 16,00",MINI-PIZZA + SALGADO + SUCOS (200ML)
+    25/08/2025,"R$ 16,00",Produto não especificado
+    05/09/2025,"R$ 16,00",MINI-PIZZA + SALGADO + SUCOS (200ML)
+
+
+--------------------------------------------------------------------------------
+RESPONSÁVEL #089
+--------------------------------------------------------------------------------
+Nome: JAMILE MARQUES BARROS DA SILVA
+Telefone: (84) 99615-7395
+"Total Geral: R$ 5,00"
+
+  📚 ALUNO: CALEBE BARROS DE OLIVEIRA
+"  💰 Total do Aluno: R$ 5,00"
+
+    Data,Valor (R$),Descrição do Consumo
+    ----------,------------,----------------------------------------
+    27/08/2025,"R$ 5,00",BOLO FATIA
+
+
+--------------------------------------------------------------------------------
+RESPONSÁVEL #090
+--------------------------------------------------------------------------------
+Nome: JANAINA ATALIBA DE MELO SOUZA
+Telefone: (84) 98871-4263
+"Total Geral: R$ 63,00"
+
+  📚 ALUNO: MARIANA LETÍCIA ATALIBA DE DE SOUZA
+"  💰 Total do Aluno: R$ 23,00"
+
+    Data,Valor (R$),Descrição do Consumo
+    ----------,------------,----------------------------------------
+    29/08/2025,"R$ 7,00",BOLO DE POTE
+    03/09/2025,"R$ 10,00",Produto não especificado
+    02/09/2025,"R$ 6,00",Produto não especificado
+
+  📚 ALUNO: REBECA SOFIA ATALIBA DE SOUZA
+"  💰 Total do Aluno: R$ 40,00"
+
+    Data,Valor (R$),Descrição do Consumo
+    ----------,------------,----------------------------------------
+    28/08/2025,"R$ 11,00",CUPCAKE + SALGADO
+    27/08/2025,"R$ 5,00",CUPCAKE
+    05/09/2025,"R$ 8,00",AÇAÍ (POTE 250ML)
+    03/09/2025,"R$ 10,00",Produto não especificado
+    02/09/2025,"R$ 6,00",SALGADO
+
+
+--------------------------------------------------------------------------------
+RESPONSÁVEL #091
+--------------------------------------------------------------------------------
+Nome: JANAÍNA CORDULA DO LAGO
+Telefone: (84) 99957-2273
+"Total Geral: R$ 31,00"
+
+  📚 ALUNO: GUILHERME  LAGO
+"  💰 Total do Aluno: R$ 31,00"
+
+    Data,Valor (R$),Descrição do Consumo
+    ----------,------------,----------------------------------------
+    29/08/2025,"R$ 4,00",REFRIGERANTE PET
+    28/08/2025,"R$ 4,00",ÁGUA MINERAL (COM GÁS)
+    27/08/2025,"R$ 4,00",SUCOS (200ML)
+    03/09/2025,"R$ 10,00",MINI-PIZZA + ACHOCOLATADO
+    02/09/2025,"R$ 9,00",ÁGUA MINERAL (SEM GÁS) + MINI-PIZZA
+
+
+--------------------------------------------------------------------------------
+RESPONSÁVEL #092
+--------------------------------------------------------------------------------
+Nome: JANE KELLY DOS SANTO S CANINDE GOMES
+Telefone: (84) 99125-1442
+"Total Geral: R$ 56,00"
+
+  📚 ALUNO: REBECA SANTOS GOMES
+"  💰 Total do Aluno: R$ 56,00"
+
+    Data,Valor (R$),Descrição do Consumo
+    ----------,------------,----------------------------------------
+    29/08/2025,"R$ 6,00",SALGADO
+    28/08/2025,"R$ 10,00",SALGADO + PASTILHA
+    27/08/2025,"R$ 6,00",Produto não especificado
+    27/08/2025,"R$ 10,00",Produto não especificado
+    05/09/2025,"R$ 6,00",Produto não especificado
+    04/09/2025,"R$ 6,00",SALGADO
+    03/09/2025,"R$ 6,00",SALGADO
+    03/09/2025,"R$ 6,00",Produto não especificado
+
+
+--------------------------------------------------------------------------------
+RESPONSÁVEL #093
+--------------------------------------------------------------------------------
+Nome: JAQUELINE  WANDERLEI
+Telefone: (84) 98821-6148
+"Total Geral: R$ 43,00"
+
+  📚 ALUNO: JOÃO MIGUEL ALVES
+"  💰 Total do Aluno: R$ 43,00"
+
+    Data,Valor (R$),Descrição do Consumo
+    ----------,------------,----------------------------------------
+    27/08/2025,"R$ 11,00",Produto não especificado
+    25/08/2025,"R$ 6,00",Produto não especificado
+    05/09/2025,"R$ 14,00",Produto não especificado
+    03/09/2025,"R$ 6,00",Produto não especificado
+    02/09/2025,"R$ 6,00",MINI-PIZZA
+
+
+--------------------------------------------------------------------------------
+RESPONSÁVEL #094
+--------------------------------------------------------------------------------
+Nome: JAQUELINE GOMES GOMES DA SILVA
+Telefone: (84) 98818-5133
+"Total Geral: R$ 46,00"
+
+  📚 ALUNO: PAMELA ELITA GOMES DA SILVA
+"  💰 Total do Aluno: R$ 46,00"
+
+    Data,Valor (R$),Descrição do Consumo
+    ----------,------------,----------------------------------------
+    28/08/2025,"R$ 13,00",Produto não especificado
+    27/08/2025,"R$ 5,00",CUPCAKE
+    05/09/2025,"R$ 10,00",Produto não especificado
+    04/09/2025,"R$ 6,00",Produto não especificado
+    03/09/2025,"R$ 12,00",2x MINI-PIZZA
+
+
+--------------------------------------------------------------------------------
+RESPONSÁVEL #095
+--------------------------------------------------------------------------------
+Nome: JAZIA  AMARILES DA SILVA OLIVEIRA
+Telefone: (84) 98767-8500
+"Total Geral: R$ 16,00"
+
+  📚 ALUNO: JOSUE  CALEBE SILVA OLIVEIRA
+"  💰 Total do Aluno: R$ 16,00"
+
+    Data,Valor (R$),Descrição do Consumo
+    ----------,------------,----------------------------------------
+    27/08/2025,"R$ 16,00",Produto não especificado
+
+
+--------------------------------------------------------------------------------
+RESPONSÁVEL #096
+--------------------------------------------------------------------------------
+Nome: JESSICA  KAROLINE CAMPOS COSTA
+Telefone: (84) 99670-8713
+"Total Geral: R$ 9,00"
+
+  📚 ALUNO: MARIA LUIZA COSTA DE SOUZA
+"  💰 Total do Aluno: R$ 9,00"
+
+    Data,Valor (R$),Descrição do Consumo
+    ----------,------------,----------------------------------------
+    29/08/2025,"R$ 9,00",CASADINHA
+
+
+--------------------------------------------------------------------------------
+RESPONSÁVEL #097
+--------------------------------------------------------------------------------
+Nome: JOAO FRANCISCO DE SOUZA NETO
+Telefone: (84) 98714-1312
+"Total Geral: R$ 29,00"
+
+  📚 ALUNO: LETICIA PAIVA MORAES DE SOUZA
+"  💰 Total do Aluno: R$ 29,00"
+
+    Data,Valor (R$),Descrição do Consumo
+    ----------,------------,----------------------------------------
+    29/08/2025,"R$ 5,00",TORRADA / MISTO QUENTE
+    27/08/2025,"R$ 11,00",Produto não especificado
+    02/09/2025,"R$ 9,00",CHAMYTO + TORRADA / MISTO QUENTE
+    02/09/2025,"R$ 4,00",CHAMYTO
+
+
+--------------------------------------------------------------------------------
+RESPONSÁVEL #098
+--------------------------------------------------------------------------------
+Nome: JOELMA  MATIAS
+Telefone: (84) 99802-8082
+"Total Geral: R$ 37,00"
+
+  📚 ALUNO: JOANA ABIGAIL MATIAS ARAUJO DA COSTA
+"  💰 Total do Aluno: R$ 37,00"
+
+    Data,Valor (R$),Descrição do Consumo
+    ----------,------------,----------------------------------------
+    29/08/2025,"R$ 7,00",BOLO DE POTE
+    27/08/2025,"R$ 4,00",CHAMYTO
+    27/08/2025,"R$ 8,00",AÇAÍ (POTE 250ML)
+    25/08/2025,"R$ 4,00",Produto não especificado
+    02/09/2025,"R$ 14,00",CREME DE NINHO + SALGADO
+
+
+--------------------------------------------------------------------------------
+RESPONSÁVEL #099
+--------------------------------------------------------------------------------
+Nome: JOSEFA JEOVANIA TEIXEIRA DE OLIVEIRA DIAS
+Telefone: (84) 98704-6799
+"Total Geral: R$ 10,00"
+
+  📚 ALUNO: JOÃO GUILHERME DE OLIVEIRA MEDEIROS DIAS
+"  💰 Total do Aluno: R$ 10,00"
+
+    Data,Valor (R$),Descrição do Consumo
+    ----------,------------,----------------------------------------
+    27/08/2025,"R$ 10,00",BOLO FATIA + IOGURTE
+
+
+--------------------------------------------------------------------------------
+RESPONSÁVEL #100
+--------------------------------------------------------------------------------
+Nome: JUCIARA MARIA SILVA DO NASCIMENTO
+Telefone: (84) 98822-3876
+"Total Geral: R$ 57,00"
+
+  📚 ALUNO: JOAQUIM CARLOS NASCIMENTO LEITE
+"  💰 Total do Aluno: R$ 57,00"
+
+    Data,Valor (R$),Descrição do Consumo
+    ----------,------------,----------------------------------------
+    27/08/2025,"R$ 12,00",Produto não especificado
+    27/08/2025,"R$ 4,00",FRUTAS (UNIDADE)
+    05/09/2025,"R$ 12,00",Produto não especificado
+    05/09/2025,"R$ 4,00",Produto não especificado
+    03/09/2025,"R$ 3,00",Produto não especificado
+    02/09/2025,"R$ 11,00",ÁGUA MINERAL (SEM GÁS) + 2x CHAMYTO
+    02/09/2025,"R$ 11,00",HAMBURGUER ARTESANAL + SUCOS (200ML)
+
+
+--------------------------------------------------------------------------------
+RESPONSÁVEL #101
+--------------------------------------------------------------------------------
+Nome: JULIANA DO REGO CORREIA
+Telefone: (84) 99696-5566
+"Total Geral: R$ 24,00"
+
+  📚 ALUNO: MARIA HELENA REGO FREITAS
+"  💰 Total do Aluno: R$ 24,00"
+
+    Data,Valor (R$),Descrição do Consumo
+    ----------,------------,----------------------------------------
+    02/09/2025,"R$ 9,00",Produto não especificado
+    02/09/2025,"R$ 15,00",ACHOCOLATADO + MINI-PIZZA + CUPCAKE
+
+
+--------------------------------------------------------------------------------
+RESPONSÁVEL #102
+--------------------------------------------------------------------------------
+Nome: JULIENE ANGELICA RODRIGUES MASCARENHAS MOURA
+Telefone: (84) 98639-5553
+"Total Geral: R$ 76,00"
+
+  📚 ALUNO: MIGUEL MASCARENHAS BENIGNO DE MOURA
+"  💰 Total do Aluno: R$ 76,00"
+
+    Data,Valor (R$),Descrição do Consumo
+    ----------,------------,----------------------------------------
+    29/08/2025,"R$ 13,00",Produto não especificado
+    27/08/2025,"R$ 11,00",MINI-PIZZA + CUPCAKE
+    25/08/2025,"R$ 11,00",Produto não especificado
+    05/09/2025,"R$ 10,00",MINI-PIZZA
+    03/09/2025,"R$ 10,00",MINI-PIZZA + ACHOCOLATADO
+    02/09/2025,"R$ 11,00",MINI-PIZZA + BOLO FATIA
+    02/09/2025,"R$ 10,00",MINI-PIZZA + ACHOCOLATADO
+
+
+--------------------------------------------------------------------------------
+RESPONSÁVEL #103
+--------------------------------------------------------------------------------
+Nome: JULIETE SANTOS
+Telefone: (84) 99940-1448
+"Total Geral: R$ 44,00"
+
+  📚 ALUNO: ISABELLA SANTOS DE FIGUEREDO DANTAS
+"  💰 Total do Aluno: R$ 44,00"
+
+    Data,Valor (R$),Descrição do Consumo
+    ----------,------------,----------------------------------------
+    27/08/2025,"R$ 10,00",SALGADO + SUCOS (200ML)
+    27/08/2025,"R$ 6,00",MINI-PIZZA
+    05/09/2025,"R$ 9,00",Produto não especificado
+    05/09/2025,"R$ 9,00",Produto não especificado
+    02/09/2025,"R$ 10,00",MINI-PIZZA + SUCOS (200ML)
+
+
+--------------------------------------------------------------------------------
+RESPONSÁVEL #104
+--------------------------------------------------------------------------------
+Nome: JULLIETE GONÇALVES DE OLIVEIRA PIMENTA
+Telefone: (84) 99673-0280
+"Total Geral: R$ 37,00"
+
+  📚 ALUNO: LEVI GABRIEL OLIVEIRA PIMENTA
+"  💰 Total do Aluno: R$ 37,00"
+
+    Data,Valor (R$),Descrição do Consumo
+    ----------,------------,----------------------------------------
+    29/08/2025,"R$ 10,00",MINI-PIZZA + ACHOCOLATADO
+    25/08/2025,"R$ 5,00",Produto não especificado
+    05/09/2025,"R$ 9,00",ACHOCOLATADO + TORRADA / MISTO QUENTE
+    02/09/2025,"R$ 13,00",MINI-PIZZA + ACHOCOLATADO + ÁGUA MINERAL (SEM GÁS)
+
+
+--------------------------------------------------------------------------------
+RESPONSÁVEL #105
+--------------------------------------------------------------------------------
+Nome: KALINE RODRIGUES DE FREITAS PAIVA
+Telefone: (84) 99155-6981
+"Total Geral: R$ 36,00"
+
+  📚 ALUNO: ANNA BEATRIZ PAIVA DA SILVA
+"  💰 Total do Aluno: R$ 10,00"
+
+    Data,Valor (R$),Descrição do Consumo
+    ----------,------------,----------------------------------------
+    02/09/2025,"R$ 10,00",MINI-PIZZA + SUCOS (200ML)
+
+  📚 ALUNO: ANNY KALINE PAIVA DA SILVA
+"  💰 Total do Aluno: R$ 26,00"
+
+    Data,Valor (R$),Descrição do Consumo
+    ----------,------------,----------------------------------------
+    28/08/2025,"R$ 6,00",Produto não especificado
+    05/09/2025,"R$ 7,00",Produto não especificado
+    03/09/2025,"R$ 7,00",Produto não especificado
+    02/09/2025,"R$ 6,00",Produto não especificado
+
+
+--------------------------------------------------------------------------------
+RESPONSÁVEL #106
+--------------------------------------------------------------------------------
+Nome: KARLA  DANIELLA VIEIRA E SILVA ARAUJO
+Telefone: (84) 99928-8598
+"Total Geral: R$ 18,00"
+
+  📚 ALUNO: VALENTINA VIEIRA
+"  💰 Total do Aluno: R$ 18,00"
+
+    Data,Valor (R$),Descrição do Consumo
+    ----------,------------,----------------------------------------
+    27/08/2025,"R$ 4,00",CHAMYTO
+    03/09/2025,"R$ 14,00",Produto não especificado
+
+
+--------------------------------------------------------------------------------
+RESPONSÁVEL #107
+--------------------------------------------------------------------------------
+Nome: KATIA ALVES MALHEIROS
+Telefone: (84) 99928-2306
+"Total Geral: R$ 30,00"
+
+  📚 ALUNO: DAVI MALHEIROS  LUSTOSA MACIEL
+"  💰 Total do Aluno: R$ 30,00"
+
+    Data,Valor (R$),Descrição do Consumo
+    ----------,------------,----------------------------------------
+    27/08/2025,"R$ 6,00",Produto não especificado
+    25/08/2025,"R$ 6,00",Produto não especificado
+    04/09/2025,"R$ 6,00",Produto não especificado
+    03/09/2025,"R$ 12,00",2x SALGADO
+
+
+--------------------------------------------------------------------------------
+RESPONSÁVEL #108
+--------------------------------------------------------------------------------
+Nome: KATIA PATRICIA DE OLIVEIRA AQUINO
+Telefone: (84) 99987-0100
+"Total Geral: R$ 22,00"
+
+  📚 ALUNO: MARIA HELENA DE OLIVEIRA  ARAUJO
+"  💰 Total do Aluno: R$ 22,00"
+
+    Data,Valor (R$),Descrição do Consumo
+    ----------,------------,----------------------------------------
+    27/08/2025,"R$ 5,00",CUPCAKE
+    27/08/2025,"R$ 10,00",MINI-PIZZA + SUCOS (200ML)
+    02/09/2025,"R$ 7,00",BOLO DE POTE
+
+
+--------------------------------------------------------------------------------
+RESPONSÁVEL #109
+--------------------------------------------------------------------------------
+Nome: KAYNIELLE  VANELE
+Telefone: (84) 99990-5076
+"Total Geral: R$ 46,00"
+
+  📚 ALUNO: TAYLA ROBERTA
+"  💰 Total do Aluno: R$ 46,00"
+
+    Data,Valor (R$),Descrição do Consumo
+    ----------,------------,----------------------------------------
+    29/08/2025,"R$ 9,00",Produto não especificado
+    28/08/2025,"R$ 5,00",Produto não especificado
+    25/08/2025,"R$ 9,00",Produto não especificado
+    04/09/2025,"R$ 7,00",Produto não especificado
+    03/09/2025,"R$ 16,00",SALGADO + 2x CHOCOLATE
+
+
+--------------------------------------------------------------------------------
+RESPONSÁVEL #110
+--------------------------------------------------------------------------------
+Nome: KELLYANE CRISTINE PRATA DE LUCENA RIBEIRO
+Telefone: (84) 99991-8938
+"Total Geral: R$ 9,00"
+
+  📚 ALUNO: HENRIQUE DE LUCENA RIBEIRO
+"  💰 Total do Aluno: R$ 9,00"
+
+    Data,Valor (R$),Descrição do Consumo
+    ----------,------------,----------------------------------------
+    25/08/2025,"R$ 9,00",Produto não especificado
+
+
+--------------------------------------------------------------------------------
+RESPONSÁVEL #111
+--------------------------------------------------------------------------------
+Nome: KENNYA AMORIM DE LIMA GRALHA
+Telefone: (84) 99601-9145
+"Total Geral: R$ 44,00"
+
+  📚 ALUNO: LUCAS LIMA  GRALHA
+"  💰 Total do Aluno: R$ 44,00"
+
+    Data,Valor (R$),Descrição do Consumo
+    ----------,------------,----------------------------------------
+    27/08/2025,"R$ 10,00",SALGADO + SUCOS (200ML)
+    27/08/2025,"R$ 10,00",MINI-PIZZA + SUCOS (200ML)
+    03/09/2025,"R$ 10,00",Produto não especificado
+    02/09/2025,"R$ 10,00",Produto não especificado
+    02/09/2025,"R$ 4,00",SUCOS (200ML)
+
+
+--------------------------------------------------------------------------------
+RESPONSÁVEL #112
+--------------------------------------------------------------------------------
+Nome: KEYLANE  MARQUES DA SILVA RAMOS
+Telefone: (84) 99601-8435
+"Total Geral: R$ 22,00"
+
+  📚 ALUNO: MARIA CLARA MARQUES DO REGO
+"  💰 Total do Aluno: R$ 22,00"
+
+    Data,Valor (R$),Descrição do Consumo
+    ----------,------------,----------------------------------------
+    29/08/2025,"R$ 8,00",AÇAÍ (POTE 250ML)
+    04/09/2025,"R$ 6,00",MINI-PIZZA
+    03/09/2025,"R$ 8,00",Produto não especificado
+
+
+--------------------------------------------------------------------------------
+RESPONSÁVEL #113
+--------------------------------------------------------------------------------
+Nome: KRISTIANE GLACIENE NUNES FILGUEIRA CAMARA
+Telefone: (84) 98877-1512
+"Total Geral: R$ 35,00"
+
+  📚 ALUNO: URIEL NUNES CAMARA
+"  💰 Total do Aluno: R$ 35,00"
+
+    Data,Valor (R$),Descrição do Consumo
+    ----------,------------,----------------------------------------
+    29/08/2025,"R$ 6,00",MINI-PIZZA
+    28/08/2025,"R$ 6,00",MINI-PIZZA
+    27/08/2025,"R$ 11,00",SALGADO + CUPCAKE
+    25/08/2025,"R$ 6,00",Produto não especificado
+    02/09/2025,"R$ 6,00",SALGADO
+
+
+--------------------------------------------------------------------------------
+RESPONSÁVEL #114
+--------------------------------------------------------------------------------
+Nome: KRYSSIA ALEIXO DE SOUZA CAROLINO DE MELO
+Telefone: (84) 99663-0506
+"Total Geral: R$ 55,00"
+
+  📚 ALUNO: ANTONIO AUGUSTO CAROLINO DE MELO NETO
+"  💰 Total do Aluno: R$ 43,00"
+
+    Data,Valor (R$),Descrição do Consumo
+    ----------,------------,----------------------------------------
+    29/08/2025,"R$ 11,00",CUPCAKE + MINI-PIZZA
+    27/08/2025,"R$ 10,00",CUPCAKE + FRUTAS (POTE 250ML)
+    27/08/2025,"R$ 11,00",MINI-PIZZA + IOGURTE
+    25/08/2025,"R$ 11,00",SALGADO + IOGURTE
+
+  📚 ALUNO: REBECA ALEIXO DE MELO
+"  💰 Total do Aluno: R$ 12,00"
+
+    Data,Valor (R$),Descrição do Consumo
+    ----------,------------,----------------------------------------
+    27/08/2025,"R$ 6,00",MINI-PIZZA
+    05/09/2025,"R$ 6,00",Produto não especificado
+
+
+--------------------------------------------------------------------------------
+RESPONSÁVEL #115
+--------------------------------------------------------------------------------
+Nome: LARISSA MICHAELLA BEZERRA DANTAS
+Telefone: (84) 99625-1107
+"Total Geral: R$ 14,00"
+
+  📚 ALUNO: LARA CASTELO DAMASCENO DANTAS
+"  💰 Total do Aluno: R$ 6,00"
+
+    Data,Valor (R$),Descrição do Consumo
+    ----------,------------,----------------------------------------
+    03/09/2025,"R$ 6,00",Produto não especificado
+
+  📚 ALUNO: LISSA CASTELO DAMASCENO DANTAS
+"  💰 Total do Aluno: R$ 8,00"
+
+    Data,Valor (R$),Descrição do Consumo
+    ----------,------------,----------------------------------------
+    03/09/2025,"R$ 8,00",Produto não especificado
+
+
+--------------------------------------------------------------------------------
+RESPONSÁVEL #116
+--------------------------------------------------------------------------------
+Nome: LAYANE ORRICO
+Telefone: (84) 99708-8896
+"Total Geral: R$ 11,00"
+
+  📚 ALUNO: NOAH BENICIO ORRICO  DE ALMEIDA
+"  💰 Total do Aluno: R$ 11,00"
+
+    Data,Valor (R$),Descrição do Consumo
+    ----------,------------,----------------------------------------
+    27/08/2025,"R$ 11,00",SALGADO + IOGURTE
+
+
+--------------------------------------------------------------------------------
+RESPONSÁVEL #117
+--------------------------------------------------------------------------------
+Nome: LICIA DE CASTRO REGO
+Telefone: (84) 99842-3009
+"Total Geral: R$ 81,00"
+
+  📚 ALUNO: MARIA LUIZA LOBO REGO CARVALHO
+"  💰 Total do Aluno: R$ 81,00"
+
+    Data,Valor (R$),Descrição do Consumo
+    ----------,------------,----------------------------------------
+    29/08/2025,"R$ 7,00",BOLO DE POTE
+    27/08/2025,"R$ 10,00",MINI-PIZZA + SUCOS (200ML)
+    27/08/2025,"R$ 15,00",MINI-PIZZA + ACHOCOLATADO + CUPCAKE
+    25/08/2025,"R$ 10,00",Produto não especificado
+    03/09/2025,"R$ 10,00",MINI-PIZZA + ACHOCOLATADO
+    02/09/2025,"R$ 14,00",MINI-PIZZA + CREME DE NINHO
+    02/09/2025,"R$ 15,00",Produto não especificado
+
+
+--------------------------------------------------------------------------------
+RESPONSÁVEL #118
+--------------------------------------------------------------------------------
+Nome: LIDNADJA CRISTINA SILVEIRA DE SOUZA
+Telefone: (84) 98115-3074
+"Total Geral: R$ 23,00"
+
+  📚 ALUNO: MARIA ALICE DE SOUZA MENDES PEREIRA
+"  💰 Total do Aluno: R$ 23,00"
+
+    Data,Valor (R$),Descrição do Consumo
+    ----------,------------,----------------------------------------
+    27/08/2025,"R$ 10,00",MINI-PIZZA + SUCOS (200ML)
+    05/09/2025,"R$ 10,00",Produto não especificado
+    03/09/2025,"R$ 3,00",ÁGUA MINERAL (SEM GÁS)
+
+
+--------------------------------------------------------------------------------
+RESPONSÁVEL #119
+--------------------------------------------------------------------------------
+Nome: LIGIA ANDERSON DA SILVA COSTA ARAUJO
+Telefone: (84) 99675-2450
+"Total Geral: R$ 68,00"
+
+  📚 ALUNO: MARIA CLARA COSTA ARAÚJO
+"  💰 Total do Aluno: R$ 49,00"
+
+    Data,Valor (R$),Descrição do Consumo
+    ----------,------------,----------------------------------------
+    28/08/2025,"R$ 6,00",Produto não especificado
+    03/09/2025,"R$ 16,00",Produto não especificado
+    02/09/2025,"R$ 17,00",2x MINI-PIZZA + BOLO FATIA
+    02/09/2025,"R$ 10,00",MINI-PIZZA + ACHOCOLATADO
+
+  📚 ALUNO: YASMIN COSTA ARAÚJO
+"  💰 Total do Aluno: R$ 19,00"
+
+    Data,Valor (R$),Descrição do Consumo
+    ----------,------------,----------------------------------------
+    27/08/2025,"R$ 8,00",AÇAÍ (POTE 250ML)
+    27/08/2025,"R$ 5,00",BOLO FATIA
+    02/09/2025,"R$ 6,00",Produto não especificado
+
+
+--------------------------------------------------------------------------------
+RESPONSÁVEL #120
+--------------------------------------------------------------------------------
+Nome: LISANDRA ALMEIDA DE OLIVEIRA
+Telefone: (84) 99650-9825
+"Total Geral: R$ 16,00"
+
+  📚 ALUNO: LUISA ALMEIDA DE NOGUEIRA
+"  💰 Total do Aluno: R$ 16,00"
+
+    Data,Valor (R$),Descrição do Consumo
+    ----------,------------,----------------------------------------
+    29/08/2025,"R$ 6,00",MINI-PIZZA
+    02/09/2025,"R$ 10,00",Produto não especificado
+
+
+--------------------------------------------------------------------------------
+RESPONSÁVEL #121
+--------------------------------------------------------------------------------
+Nome: LUCAS  GABRIEL NUNES DOS SANTOS SÉTIMO B
+Telefone: (84) 99216-7392
+"Total Geral: R$ 19,00"
+
+  📚 ALUNO: LUCAS GABRIEL  NUNES DOS SANTOS
+"  💰 Total do Aluno: R$ 19,00"
+
+    Data,Valor (R$),Descrição do Consumo
+    ----------,------------,----------------------------------------
+    27/08/2025,"R$ 5,00",CHOCOLATE
+    27/08/2025,"R$ 5,00",CHOCOLATE
+    04/09/2025,"R$ 9,00",Produto não especificado
+
+
+--------------------------------------------------------------------------------
+RESPONSÁVEL #122
+--------------------------------------------------------------------------------
+Nome: LUCIANA MONTEIRO MARQUES
+Telefone: (84) 99991-1524
+"Total Geral: R$ 176,00"
+
+  📚 ALUNO: LAIS MONTEIRO MARQUES
+"  💰 Total do Aluno: R$ 94,00"
+
+    Data,Valor (R$),Descrição do Consumo
+    ----------,------------,----------------------------------------
+    29/08/2025,"R$ 9,00",Produto não especificado
+    27/08/2025,"R$ 9,00",Produto não especificado
+    27/08/2025,"R$ 17,00",CASADINHA + AÇAÍ (POTE 250ML)
+    05/09/2025,"R$ 15,00",Produto não especificado
+    04/09/2025,"R$ 15,00",Produto não especificado
+    03/09/2025,"R$ 23,00",Produto não especificado
+    02/09/2025,"R$ 6,00",Produto não especificado
+
+  📚 ALUNO: LORENZO MONTEIRO MARQUES
+"  💰 Total do Aluno: R$ 36,00"
+
+    Data,Valor (R$),Descrição do Consumo
+    ----------,------------,----------------------------------------
+    27/08/2025,"R$ 9,00",SUCOS (200ML) + CUPCAKE
+    05/09/2025,"R$ 9,00",Produto não especificado
+    05/09/2025,"R$ 10,00",Produto não especificado
+    02/09/2025,"R$ 8,00",Produto não especificado
+
+  📚 ALUNO: LUCAS MONTEIRO MARQUES
+"  💰 Total do Aluno: R$ 46,00"
+
+    Data,Valor (R$),Descrição do Consumo
+    ----------,------------,----------------------------------------
+    29/08/2025,"R$ 9,00",CASADINHA
+    27/08/2025,"R$ 9,00",CASADINHA
+    05/09/2025,"R$ 9,00",CASADINHA
+    04/09/2025,"R$ 10,00",ACHOCOLATADO + SALGADO
+    03/09/2025,"R$ 9,00",CASADINHA
+
+
+--------------------------------------------------------------------------------
+RESPONSÁVEL #123
+--------------------------------------------------------------------------------
+Nome: LUCIANO LYRA FILHO
+Telefone: (84) 99439-2901
+"Total Geral: R$ 32,00"
+
+  📚 ALUNO: LUCIANO LYRA FILHO
+"  💰 Total do Aluno: R$ 32,00"
+
+    Data,Valor (R$),Descrição do Consumo
+    ----------,------------,----------------------------------------
+    05/09/2025,"R$ 10,00",Produto não especificado
+    04/09/2025,"R$ 6,00",Produto não especificado
+    03/09/2025,"R$ 10,00",2x BOLO FATIA
+    02/09/2025,"R$ 6,00",MINI-PIZZA
+
+
+--------------------------------------------------------------------------------
+RESPONSÁVEL #124
+--------------------------------------------------------------------------------
+Nome: LÚCIO CARLOS DE OLIVEIRA BARBOSA
+Telefone: (84) 98895-8898
+"Total Geral: R$ 166,00"
+
+  📚 ALUNO: CARLOS EDUARDO PENHA BARBOSA
+"  💰 Total do Aluno: R$ 96,00"
+
+    Data,Valor (R$),Descrição do Consumo
+    ----------,------------,----------------------------------------
+    29/08/2025,"R$ 16,00",KIT SAUDÁVEL + SANDUÍCHE NATURAL
+    28/08/2025,"R$ 10,00",KIT SAUDÁVEL
+    27/08/2025,"R$ 10,00",KIT SAUDÁVEL
+    27/08/2025,"R$ 10,00",KIT SAUDÁVEL
+    25/08/2025,"R$ 10,00",Produto não especificado
+    05/09/2025,"R$ 10,00",Produto não especificado
+    03/09/2025,"R$ 10,00",KIT SAUDÁVEL
+    02/09/2025,"R$ 10,00",KIT SAUDÁVEL
+    02/09/2025,"R$ 10,00",KIT SAUDÁVEL
+
+  📚 ALUNO: LUÍS FELIPE PENHA BARBOSA
+"  💰 Total do Aluno: R$ 70,00"
+
+    Data,Valor (R$),Descrição do Consumo
+    ----------,------------,----------------------------------------
+    27/08/2025,"R$ 10,00",KIT SAUDÁVEL
+    27/08/2025,"R$ 10,00",KIT SAUDÁVEL
+    25/08/2025,"R$ 10,00",Produto não especificado
+    05/09/2025,"R$ 10,00",Produto não especificado
+    05/09/2025,"R$ 10,00",Produto não especificado
+    02/09/2025,"R$ 10,00",Produto não especificado
+    02/09/2025,"R$ 10,00",KIT SAUDÁVEL
+
+
+--------------------------------------------------------------------------------
+RESPONSÁVEL #125
+--------------------------------------------------------------------------------
+Nome: MACLI IRVING DA SILVA
+Telefone: (11) 98258-8482
+"Total Geral: R$ 157,00"
+
+  📚 ALUNO: BENJAMIM IRVING NOGUEIRA E SILV A
+"  💰 Total do Aluno: R$ 87,00"
+
+    Data,Valor (R$),Descrição do Consumo
+    ----------,------------,----------------------------------------
+    29/08/2025,"R$ 8,00",Produto não especificado
+    28/08/2025,"R$ 10,00",Produto não especificado
+    27/08/2025,"R$ 8,00",AÇAÍ (POTE 250ML)
+    27/08/2025,"R$ 5,00",CUPCAKE
+    25/08/2025,"R$ 9,00",Produto não especificado
+    05/09/2025,"R$ 9,00",Produto não especificado
+    04/09/2025,"R$ 11,00",Produto não especificado
+    03/09/2025,"R$ 18,00",2x CASADINHA
+    02/09/2025,"R$ 9,00",CASADINHA
+
+  📚 ALUNO: NOEMY ACSA NOGUEIRA E SILVA
+"  💰 Total do Aluno: R$ 70,00"
+
+    Data,Valor (R$),Descrição do Consumo
+    ----------,------------,----------------------------------------
+    29/08/2025,"R$ 8,00",AÇAÍ (POTE 250ML)
+    28/08/2025,"R$ 10,00",SALGADO + ACHOCOLATADO
+    27/08/2025,"R$ 10,00",ACHOCOLATADO + SALGADO
+    27/08/2025,"R$ 4,00",ACHOCOLATADO
+    05/09/2025,"R$ 10,00",Produto não especificado
+    03/09/2025,"R$ 8,00",AÇAÍ (POTE 250ML)
+    02/09/2025,"R$ 10,00",SALGADO + ACHOCOLATADO
+    02/09/2025,"R$ 10,00",SALGADO + ACHOCOLATADO
+
+
+--------------------------------------------------------------------------------
+RESPONSÁVEL #126
+--------------------------------------------------------------------------------
+Nome: MAGNOLIA FAGUNDES ALVES BARBOSA
+Telefone: (84) 98717-7215
+"Total Geral: R$ 53,00"
+
+  📚 ALUNO: RICARDO DAVI FAGUNDES BARBOSA
+"  💰 Total do Aluno: R$ 53,00"
+
+    Data,Valor (R$),Descrição do Consumo
+    ----------,------------,----------------------------------------
+    28/08/2025,"R$ 5,00",BOLO FATIA
+    27/08/2025,"R$ 9,00",CASADINHA
+    05/09/2025,"R$ 11,00",Produto não especificado
+    04/09/2025,"R$ 6,00",MINI-PIZZA
+    03/09/2025,"R$ 16,00",AÇAÍ (POTE 250ML) + CREME DE NINHO
+    02/09/2025,"R$ 6,00",Produto não especificado
+
+
+--------------------------------------------------------------------------------
+RESPONSÁVEL #127
+--------------------------------------------------------------------------------
+Nome: MARCIA  TALITA
+Telefone: (84) 98701-4334
+"Total Geral: R$ 21,00"
+
+  📚 ALUNO: MARIA ALICE  DANTAS
+"  💰 Total do Aluno: R$ 21,00"
+
+    Data,Valor (R$),Descrição do Consumo
+    ----------,------------,----------------------------------------
+    29/08/2025,"R$ 10,00",MINI-PIZZA + CHAMYTO
+    05/09/2025,"R$ 11,00",MINI-PIZZA + IOGURTE
+
+
+--------------------------------------------------------------------------------
+RESPONSÁVEL #128
+--------------------------------------------------------------------------------
+Nome: MARCOS  DELGADO DA SILVA
+Telefone: (21) 98943-0471
+"Total Geral: R$ 49,00"
+
+  📚 ALUNO: VIVIAN  MILENA DA SILVA DELGADO
+"  💰 Total do Aluno: R$ 49,00"
+
+    Data,Valor (R$),Descrição do Consumo
+    ----------,------------,----------------------------------------
+    28/08/2025,"R$ 9,00",Produto não especificado
+    27/08/2025,"R$ 6,00",SALGADO
+    25/08/2025,"R$ 13,00",Produto não especificado
+    05/09/2025,"R$ 4,00",Produto não especificado
+    04/09/2025,"R$ 9,00",Produto não especificado
+    03/09/2025,"R$ 8,00",Produto não especificado
+
+
+--------------------------------------------------------------------------------
+RESPONSÁVEL #129
+--------------------------------------------------------------------------------
+Nome: MARCOS AURELIO PEREIRA DE AZEVEDO
+Telefone: (84) 98804-4029
+"Total Geral: R$ 102,00"
+
+  📚 ALUNO: AURELIO VINICIUS LIMA DE AZEVEDO
+"  💰 Total do Aluno: R$ 102,00"
+
+    Data,Valor (R$),Descrição do Consumo
+    ----------,------------,----------------------------------------
+    29/08/2025,"R$ 16,00",Produto não especificado
+    27/08/2025,"R$ 13,00",CUPCAKE + AÇAÍ (POTE 250ML)
+    27/08/2025,"R$ 13,00",AÇAÍ (POTE 250ML) + CUPCAKE
+    05/09/2025,"R$ 8,00",AÇAÍ (POTE 250ML)
+    05/09/2025,"R$ 14,00",Produto não especificado
+    03/09/2025,"R$ 17,00",SALGADO + AÇAÍ (POTE 250ML) + ÁGUA MINERAL (SEM GÁS)
+    02/09/2025,"R$ 8,00",AÇAÍ (POTE 250ML)
+    02/09/2025,"R$ 13,00",HAMBURGUER ARTESANAL + SALGADO
+
+
+--------------------------------------------------------------------------------
+RESPONSÁVEL #130
+--------------------------------------------------------------------------------
+Nome: MARCOS SANT'ANNA DA SILVA JUNIOR
+Telefone: (67) 98177-0005
+"Total Geral: R$ 40,00"
+
+  📚 ALUNO: MATEUS RABELLO SANT'ANNA
+"  💰 Total do Aluno: R$ 40,00"
+
+    Data,Valor (R$),Descrição do Consumo
+    ----------,------------,----------------------------------------
+    27/08/2025,"R$ 10,00",SALGADO + CHAMYTO
+    05/09/2025,"R$ 10,00",Produto não especificado
+    03/09/2025,"R$ 10,00",MINI-PIZZA + CHAMYTO
+    02/09/2025,"R$ 10,00",Produto não especificado
+
+
+--------------------------------------------------------------------------------
+RESPONSÁVEL #131
+--------------------------------------------------------------------------------
+Nome: MARCUS VINICIUS DOS SANTOS COSTA
+Telefone: (84) 99683-8211
+"Total Geral: R$ 21,00"
+
+  📚 ALUNO: LORENZO MIGUEL DE OLIVEIRA COSTA
+"  💰 Total do Aluno: R$ 21,00"
+
+    Data,Valor (R$),Descrição do Consumo
+    ----------,------------,----------------------------------------
+    27/08/2025,"R$ 6,00",SALGADO
+    27/08/2025,"R$ 6,00",SALGADO
+    02/09/2025,"R$ 9,00",Produto não especificado
+
+
+--------------------------------------------------------------------------------
+RESPONSÁVEL #132
+--------------------------------------------------------------------------------
+Nome: MARIA  ISABEL  RAMALHO GONCALVES
+Telefone: (84) 99191-0015
+"Total Geral: R$ 48,00"
+
+  📚 ALUNO: LYNN  RODRIGUES RAMALHO COENTRO
+"  💰 Total do Aluno: R$ 48,00"
+
+    Data,Valor (R$),Descrição do Consumo
+    ----------,------------,----------------------------------------
+    29/08/2025,"R$ 19,00",CASADINHA + 2x CHOCOLATE
+    27/08/2025,"R$ 4,00",Produto não especificado
+    04/09/2025,"R$ 5,00",CHOCOLATE
+    03/09/2025,"R$ 4,00",Produto não especificado
+    03/09/2025,"R$ 16,00",MINI-PIZZA + CAPPUCCINO 3 CORAÇÕES
+
+
+--------------------------------------------------------------------------------
+RESPONSÁVEL #133
+--------------------------------------------------------------------------------
+Nome: MARIA  IVANILDA BERNADINO DA SILVA SEGUNDO
+Telefone: (84) 98881-3894
+"Total Geral: R$ 61,00"
+
+  📚 ALUNO: SÉRGIO PEREIRA  SEGUNDO NETO
+"  💰 Total do Aluno: R$ 61,00"
+
+    Data,Valor (R$),Descrição do Consumo
+    ----------,------------,----------------------------------------
+    29/08/2025,"R$ 10,00",Produto não especificado
+    28/08/2025,"R$ 11,00",Produto não especificado
+    27/08/2025,"R$ 5,00",TORRADA / MISTO QUENTE
+    27/08/2025,"R$ 8,00",AÇAÍ (POTE 250ML)
+    25/08/2025,"R$ 6,00",Produto não especificado
+    05/09/2025,"R$ 8,00",Produto não especificado
+    05/09/2025,"R$ 7,00",HAMBURGUER ARTESANAL
+    02/09/2025,"R$ 6,00",MINI-PIZZA
+
+
+--------------------------------------------------------------------------------
+RESPONSÁVEL #134
+--------------------------------------------------------------------------------
+Nome: MARIA  JOSENY
+Telefone: (84) 98896-2306
+"Total Geral: R$ 11,00"
+
+  📚 ALUNO: ESTER SEVERIANO MEDEIROS
+"  💰 Total do Aluno: R$ 11,00"
+
+    Data,Valor (R$),Descrição do Consumo
+    ----------,------------,----------------------------------------
+    29/08/2025,"R$ 6,00",Produto não especificado
+    27/08/2025,"R$ 5,00",CUPCAKE
+
+
+--------------------------------------------------------------------------------
+RESPONSÁVEL #135
+--------------------------------------------------------------------------------
+Nome: MARIA DA CONCEIÇÃO PEREIRA DA SILVA COUTO
+Telefone: (84) 98787-7563
+"Total Geral: R$ 29,00"
+
+  📚 ALUNO: LAYLA VITÓRIA PEREIRA DA SILVA COUTO
+"  💰 Total do Aluno: R$ 29,00"
+
+    Data,Valor (R$),Descrição do Consumo
+    ----------,------------,----------------------------------------
+    29/08/2025,"R$ 10,00",PÃO DE QUEIJO (PORÇÃO) + ACHOCOLATADO
+    27/08/2025,"R$ 10,00",MINI-PIZZA + ACHOCOLATADO
+    03/09/2025,"R$ 9,00",Produto não especificado
+
+
+--------------------------------------------------------------------------------
+RESPONSÁVEL #136
+--------------------------------------------------------------------------------
+Nome: MARIA DE FATIMA DA SILVA FARIAS SOARES
+Telefone: (84) 99605-5066
+"Total Geral: R$ 6,00"
+
+  📚 ALUNO: JOÃO PAULO DA SILVA SOARES
+"  💰 Total do Aluno: R$ 6,00"
+
+    Data,Valor (R$),Descrição do Consumo
+    ----------,------------,----------------------------------------
+    27/08/2025,"R$ 6,00",Produto não especificado
+
+
+--------------------------------------------------------------------------------
+RESPONSÁVEL #137
+--------------------------------------------------------------------------------
+Nome: MARIA DE FATIMA DA SILVA LIMA
+Telefone: (84) 99182-0134
+"Total Geral: R$ 10,00"
+
+  📚 ALUNO: MARIA JULIA DA SILVA LIMA BATISTA
+"  💰 Total do Aluno: R$ 10,00"
+
+    Data,Valor (R$),Descrição do Consumo
+    ----------,------------,----------------------------------------
+    27/08/2025,"R$ 10,00",MINI-PIZZA + SUCOS (200ML)
+
+
+--------------------------------------------------------------------------------
+RESPONSÁVEL #138
+--------------------------------------------------------------------------------
+Nome: MARIA EDUARDA DANTAS TAVARES  DA SILVA
+Telefone: (84) 98866-0007
+"Total Geral: R$ 68,00"
+
+  📚 ALUNO: MARIA EDUARDA DANTAS  TAVARES DA SILVA
+"  💰 Total do Aluno: R$ 68,00"
+
+    Data,Valor (R$),Descrição do Consumo
+    ----------,------------,----------------------------------------
+    29/08/2025,"R$ 12,00",Produto não especificado
+    28/08/2025,"R$ 12,00",Produto não especificado
+    27/08/2025,"R$ 6,00",SALGADO
+    27/08/2025,"R$ 6,00",SALGADO
+    05/09/2025,"R$ 20,00",Produto não especificado
+    04/09/2025,"R$ 12,00",Produto não especificado
+
+
+--------------------------------------------------------------------------------
+RESPONSÁVEL #139
+--------------------------------------------------------------------------------
+Nome: MARIA KALINA MAIA DE OLIVEIRA
+Telefone: (84) 98807-6234
+"Total Geral: R$ 16,00"
+
+  📚 ALUNO: MANUELA MAIA DOS SANTOS
+"  💰 Total do Aluno: R$ 16,00"
+
+    Data,Valor (R$),Descrição do Consumo
+    ----------,------------,----------------------------------------
+    25/08/2025,"R$ 10,00",Produto não especificado
+    05/09/2025,"R$ 6,00",Produto não especificado
+
+
+--------------------------------------------------------------------------------
+RESPONSÁVEL #140
+--------------------------------------------------------------------------------
+Nome: MARIA MARILENE DE OLIVEIRA
+Telefone: (84) 99948-1444
+"Total Geral: R$ 69,00"
+
+  📚 ALUNO: MELISSA BEZERRA DE OLIVEIRA
+"  💰 Total do Aluno: R$ 69,00"
+
+    Data,Valor (R$),Descrição do Consumo
+    ----------,------------,----------------------------------------
+    29/08/2025,"R$ 14,00",AÇAÍ (POTE 250ML) + MINI-PIZZA
+    28/08/2025,"R$ 6,00",SALGADO
+    27/08/2025,"R$ 6,00",SALGADO
+    25/08/2025,"R$ 6,00",Produto não especificado
+    05/09/2025,"R$ 10,00",Produto não especificado
+    03/09/2025,"R$ 14,00",AÇAÍ (POTE 250ML) + SALGADO
+    02/09/2025,"R$ 13,00",MINI-PIZZA + BOLO DE POTE
+
+
+--------------------------------------------------------------------------------
+RESPONSÁVEL #141
+--------------------------------------------------------------------------------
+Nome: MARIA MICARLA DE FREITAS
+Telefone: (84) 98731-8523
+"Total Geral: R$ 48,00"
+
+  📚 ALUNO: GIULIA FREITAS  BOLZONI
+"  💰 Total do Aluno: R$ 48,00"
+
+    Data,Valor (R$),Descrição do Consumo
+    ----------,------------,----------------------------------------
+    29/08/2025,"R$ 9,00",CASADINHA
+    27/08/2025,"R$ 9,00",CASADINHA
+    27/08/2025,"R$ 9,00",CASADINHA
+    03/09/2025,"R$ 9,00",Produto não especificado
+    03/09/2025,"R$ 6,00",SALGADO
+    02/09/2025,"R$ 6,00",SALGADO
+
+
+--------------------------------------------------------------------------------
+RESPONSÁVEL #142
+--------------------------------------------------------------------------------
+Nome: MARIA ORLANDA MARTINS DAS NEVES
+Telefone: (84) 98835-4293
+"Total Geral: R$ 13,00"
+
+  📚 ALUNO: JULIA GABRIELY MARTINS INACIO
+"  💰 Total do Aluno: R$ 13,00"
+
+    Data,Valor (R$),Descrição do Consumo
+    ----------,------------,----------------------------------------
+    02/09/2025,"R$ 13,00",Produto não especificado
+
+
+--------------------------------------------------------------------------------
+RESPONSÁVEL #143
+--------------------------------------------------------------------------------
+Nome: MARIA SARA MAIA DE QUEIROZ
+Telefone: (84) 99433-3593
+"Total Geral: R$ 6,00"
+
+  📚 ALUNO: MARIA ALICE MAIA ALCOFORADO
+"  💰 Total do Aluno: R$ 6,00"
+
+    Data,Valor (R$),Descrição do Consumo
+    ----------,------------,----------------------------------------
+    05/09/2025,"R$ 6,00",Produto não especificado
+
+
+--------------------------------------------------------------------------------
+RESPONSÁVEL #144
+--------------------------------------------------------------------------------
+Nome: MARIA SELMA INACIO DE OLIVEIRA
+Telefone: (84) 9901-7080
+"Total Geral: R$ 68,00"
+
+  📚 ALUNO: JOAO FELIPE INACIO TEOFILO DE OLIVEIRA
+"  💰 Total do Aluno: R$ 68,00"
+
+    Data,Valor (R$),Descrição do Consumo
+    ----------,------------,----------------------------------------
+    28/08/2025,"R$ 10,00",Produto não especificado
+    27/08/2025,"R$ 8,00",Produto não especificado
+    27/08/2025,"R$ 8,00",AÇAÍ (POTE 250ML)
+    25/08/2025,"R$ 6,00",Produto não especificado
+    05/09/2025,"R$ 8,00",AÇAÍ (POTE 250ML)
+    03/09/2025,"R$ 8,00",Produto não especificado
+    02/09/2025,"R$ 10,00",MINI-PIZZA + ACHOCOLATADO
+    02/09/2025,"R$ 10,00",MINI-PIZZA + ACHOCOLATADO
+
+
+--------------------------------------------------------------------------------
+RESPONSÁVEL #145
+--------------------------------------------------------------------------------
+Nome: MARIANA DE LIMA SOUZA DELGADO
+Telefone: (84) 9924-9606
+"Total Geral: R$ 19,00"
+
+  📚 ALUNO: ESTER DE LIMA SOUZA DELGADO
+"  💰 Total do Aluno: R$ 19,00"
+
+    Data,Valor (R$),Descrição do Consumo
+    ----------,------------,----------------------------------------
+    02/09/2025,"R$ 10,00",Produto não especificado
+    02/09/2025,"R$ 9,00",SUCOS (200ML) + TORRADA / MISTO QUENTE
+
+
+--------------------------------------------------------------------------------
+RESPONSÁVEL #146
+--------------------------------------------------------------------------------
+Nome: MARIANA LIMA DE PAIVA PERRUCI
+Telefone: (84) 99639-4506
+"Total Geral: R$ 6,00"
+
+  📚 ALUNO: MATEUS LIMA DE PAIVA PERRUCI
+"  💰 Total do Aluno: R$ 6,00"
+
+    Data,Valor (R$),Descrição do Consumo
+    ----------,------------,----------------------------------------
+    27/08/2025,"R$ 6,00",SALGADO
+
+
+--------------------------------------------------------------------------------
+RESPONSÁVEL #147
+--------------------------------------------------------------------------------
+Nome: MARIANA SILVA
+Telefone: (84) 99834-5336
+"Total Geral: R$ 97,00"
+
+  📚 ALUNO: YASMIM ANDRADE
+"  💰 Total do Aluno: R$ 97,00"
+
+    Data,Valor (R$),Descrição do Consumo
+    ----------,------------,----------------------------------------
+    28/08/2025,"R$ 16,00",Produto não especificado
+    27/08/2025,"R$ 12,00",Produto não especificado
+    27/08/2025,"R$ 19,00",MINI-PIZZA + CUPCAKE + AÇAÍ (POTE 250ML)
+    05/09/2025,"R$ 12,00",Produto não especificado
+    03/09/2025,"R$ 12,00",AÇAÍ (POTE 250ML) + FRUTAS (UNIDADE)
+    03/09/2025,"R$ 20,00",Produto não especificado
+    02/09/2025,"R$ 6,00",MINI-PIZZA
+
+
+--------------------------------------------------------------------------------
+RESPONSÁVEL #148
+--------------------------------------------------------------------------------
+Nome: MARIANGELA  MOTA DE OLIVEIRA NUNES
+Telefone: (84) 9904-8904
+"Total Geral: R$ 6,00"
+
+  📚 ALUNO: ANNY VITORIA MOTA DE OLIVEIRA
+"  💰 Total do Aluno: R$ 6,00"
+
+    Data,Valor (R$),Descrição do Consumo
+    ----------,------------,----------------------------------------
+    28/08/2025,"R$ 6,00",Produto não especificado
+
+
+--------------------------------------------------------------------------------
+RESPONSÁVEL #149
+--------------------------------------------------------------------------------
+Nome: MARILIA  DE MOURA CAFÉ FREIRE
+Telefone: (84) 99960-6621
+"Total Geral: R$ 26,00"
+
+  📚 ALUNO: PEDRO  CAFÉ
+"  💰 Total do Aluno: R$ 26,00"
+
+    Data,Valor (R$),Descrição do Consumo
+    ----------,------------,----------------------------------------
+    27/08/2025,"R$ 8,00",AÇAÍ (POTE 250ML)
+    03/09/2025,"R$ 18,00",AÇAÍ (POTE 250ML) + CAPPUCCINO 3 CORAÇÕES
+
+
+--------------------------------------------------------------------------------
+RESPONSÁVEL #150
+--------------------------------------------------------------------------------
+Nome: MARTA  DE HOLLANDA FRANCO ALBUQUERQUE
+Telefone: (84) 99988-2269
+"Total Geral: R$ 24,00"
+
+  📚 ALUNO: RAFAELA FRANCO DE ALBUQUERQUE
+"  💰 Total do Aluno: R$ 12,00"
+
+    Data,Valor (R$),Descrição do Consumo
+    ----------,------------,----------------------------------------
+    27/08/2025,"R$ 6,00",SALGADO
+    03/09/2025,"R$ 6,00",Produto não especificado
+
+  📚 ALUNO: TIAGO FRANCO DE ALBUQUERQUE
+"  💰 Total do Aluno: R$ 12,00"
+
+    Data,Valor (R$),Descrição do Consumo
+    ----------,------------,----------------------------------------
+    25/08/2025,"R$ 6,00",Produto não especificado
+    04/09/2025,"R$ 6,00",MINI-PIZZA
+
+
+--------------------------------------------------------------------------------
+RESPONSÁVEL #151
+--------------------------------------------------------------------------------
+Nome: MARUSK MIKAELLY ALVES DE LIMA
+Telefone: (84) 99990-1393
+"Total Geral: R$ 58,00"
+
+  📚 ALUNO: MARIA LUISA LIMA BEZERRA
+"  💰 Total do Aluno: R$ 58,00"
+
+    Data,Valor (R$),Descrição do Consumo
+    ----------,------------,----------------------------------------
+    29/08/2025,"R$ 6,00",Produto não especificado
+    28/08/2025,"R$ 6,00",Produto não especificado
+    27/08/2025,"R$ 6,00",Produto não especificado
+    27/08/2025,"R$ 11,00",SALGADO + CUPCAKE
+    05/09/2025,"R$ 11,00",BOLO FATIA + SALGADO
+    03/09/2025,"R$ 6,00",MINI-PIZZA
+    02/09/2025,"R$ 6,00",SALGADO
+    02/09/2025,"R$ 6,00",MINI-PIZZA
+
+
+--------------------------------------------------------------------------------
+RESPONSÁVEL #152
+--------------------------------------------------------------------------------
+Nome: MICARLA GOMES DE PONTES
+Telefone: (84) 98827-1633
+"Total Geral: R$ 95,00"
+
+  📚 ALUNO: DAVI VIANA DE PONTES
+"  💰 Total do Aluno: R$ 46,00"
+
+    Data,Valor (R$),Descrição do Consumo
+    ----------,------------,----------------------------------------
+    29/08/2025,"R$ 14,00",Produto não especificado
+    05/09/2025,"R$ 6,00",Produto não especificado
+    03/09/2025,"R$ 9,00",MINI-PIZZA + ÁGUA MINERAL (SEM GÁS)
+    02/09/2025,"R$ 6,00",MINI-PIZZA
+    02/09/2025,"R$ 11,00",MINI-PIZZA + CUPCAKE
+
+  📚 ALUNO: GABRIEL VIANA  DE PONTES
+"  💰 Total do Aluno: R$ 34,00"
+
+    Data,Valor (R$),Descrição do Consumo
+    ----------,------------,----------------------------------------
+    25/08/2025,"R$ 10,00",Produto não especificado
+    03/09/2025,"R$ 10,00",Produto não especificado
+    02/09/2025,"R$ 4,00",Produto não especificado
+    02/09/2025,"R$ 10,00",MINI-PIZZA + CHAMYTO
+
+  📚 ALUNO: NATHALIA VIANA DE PONTES
+"  💰 Total do Aluno: R$ 15,00"
+
+    Data,Valor (R$),Descrição do Consumo
+    ----------,------------,----------------------------------------
+    04/09/2025,"R$ 6,00",SALGADO
+    03/09/2025,"R$ 9,00",CHAMYTO + CHOCOLATE
+
+
+--------------------------------------------------------------------------------
+RESPONSÁVEL #153
+--------------------------------------------------------------------------------
+Nome: MIGUEL  CAMILO PENA
+Telefone: (31) 97315-3630
+"Total Geral: R$ 24,00"
+
+  📚 ALUNO: MIGUEL  CAMILO PENA
+"  💰 Total do Aluno: R$ 24,00"
+
+    Data,Valor (R$),Descrição do Consumo
+    ----------,------------,----------------------------------------
+    04/09/2025,"R$ 12,00",2x SALGADO
+    03/09/2025,"R$ 6,00",Produto não especificado
+    02/09/2025,"R$ 6,00",Produto não especificado
+
+
+--------------------------------------------------------------------------------
+RESPONSÁVEL #154
+--------------------------------------------------------------------------------
+Nome: MIKAELY LISIANE DIAS DE AQUINO OLIVEIRA
+Telefone: (84) 98813-1136
+"Total Geral: R$ 59,00"
+
+  📚 ALUNO: PEDRO MISAEL DIAS DE OLIVEIRA
+"  💰 Total do Aluno: R$ 59,00"
+
+    Data,Valor (R$),Descrição do Consumo
+    ----------,------------,----------------------------------------
+    27/08/2025,"R$ 15,00",MINI-PIZZA + IOGURTE + ÁGUA MINERAL (COM GÁS)
+    27/08/2025,"R$ 11,00",IOGURTE + PÃO DE QUEIJO (PORÇÃO)
+    03/09/2025,"R$ 13,00",CHAMYTO + ÁGUA MINERAL (SEM GÁS) + PÃO DE QUEIJO (PORÇÃO)
+    02/09/2025,"R$ 10,00",SALGADO + CHAMYTO
+    02/09/2025,"R$ 10,00",MINI-PIZZA + SUCOS (200ML)
+
+
+--------------------------------------------------------------------------------
+RESPONSÁVEL #155
+--------------------------------------------------------------------------------
+Nome: MIRIAM SORAYA DE LIMA
+Telefone: (84) 98103-0995
+"Total Geral: R$ 4,00"
+
+  📚 ALUNO: JOÃO LUCAS LIMA DO AMARAL
+"  💰 Total do Aluno: R$ 4,00"
+
+    Data,Valor (R$),Descrição do Consumo
+    ----------,------------,----------------------------------------
+    02/09/2025,"R$ 4,00",CHAMYTO
+
+
+--------------------------------------------------------------------------------
+RESPONSÁVEL #156
+--------------------------------------------------------------------------------
+Nome: MIRIÃ KELLY CHAGAS DO NASCIMENTO OLIVEIRA
+Telefone: (65) 99616-1111
+"Total Geral: R$ 25,00"
+
+  📚 ALUNO: SOFIA MELO
+"  💰 Total do Aluno: R$ 25,00"
+
+    Data,Valor (R$),Descrição do Consumo
+    ----------,------------,----------------------------------------
+    28/08/2025,"R$ 6,00",MINI-PIZZA
+    05/09/2025,"R$ 11,00",IOGURTE + MINI-PIZZA
+    03/09/2025,"R$ 4,00",Produto não especificado
+    02/09/2025,"R$ 4,00",Produto não especificado
+
+
+--------------------------------------------------------------------------------
+RESPONSÁVEL #157
+--------------------------------------------------------------------------------
+Nome: MISSERINE DEL VALLE CARVAJAL VICUNA
+Telefone: (84) 98174-8045
+"Total Geral: R$ 150,00"
+
+  📚 ALUNO: CECILIA ISABEL CARDOSO CARVAJAL
+"  💰 Total do Aluno: R$ 35,00"
+
+    Data,Valor (R$),Descrição do Consumo
+    ----------,------------,----------------------------------------
+    28/08/2025,"R$ 11,00",Produto não especificado
+    05/09/2025,"R$ 6,00",Produto não especificado
+    04/09/2025,"R$ 12,00",Produto não especificado
+    02/09/2025,"R$ 6,00",SALGADO
+
+  📚 ALUNO: HELENA SAMARA CARDOSO CARVAJAL
+"  💰 Total do Aluno: R$ 33,00"
+
+    Data,Valor (R$),Descrição do Consumo
+    ----------,------------,----------------------------------------
+    27/08/2025,"R$ 13,00",CUPCAKE + AÇAÍ (POTE 250ML)
+    05/09/2025,"R$ 10,00",Produto não especificado
+    02/09/2025,"R$ 10,00",MINI-PIZZA + CHAMYTO
+
+  📚 ALUNO: LUCAS LEVI CARDOSO CARVAJAL
+"  💰 Total do Aluno: R$ 82,00"
+
+    Data,Valor (R$),Descrição do Consumo
+    ----------,------------,----------------------------------------
+    29/08/2025,"R$ 10,00",MINI-PIZZA + CHAMYTO
+    28/08/2025,"R$ 12,00",Produto não especificado
+    27/08/2025,"R$ 14,00",Produto não especificado
+    27/08/2025,"R$ 6,00",SALGADO
+    05/09/2025,"R$ 8,00",Produto não especificado
+    05/09/2025,"R$ 12,00",2x MINI-PIZZA
+    03/09/2025,"R$ 8,00",Produto não especificado
+    02/09/2025,"R$ 12,00",2x MINI-PIZZA
+
+
+--------------------------------------------------------------------------------
+RESPONSÁVEL #158
+--------------------------------------------------------------------------------
+Nome: MONICA PATRICIA LINHARES
+Telefone: (84) 99808-5045
+"Total Geral: R$ 31,00"
+
+  📚 ALUNO: JOÃO GABRIEL LINHARES
+"  💰 Total do Aluno: R$ 31,00"
+
+    Data,Valor (R$),Descrição do Consumo
+    ----------,------------,----------------------------------------
+    28/08/2025,"R$ 15,00",Produto não especificado
+    27/08/2025,"R$ 5,00",Produto não especificado
+    02/09/2025,"R$ 11,00",Produto não especificado
+
+
+--------------------------------------------------------------------------------
+RESPONSÁVEL #159
+--------------------------------------------------------------------------------
+Nome: NAIRA CAROLINE DE OLIVEIRA BRITO
+Telefone: (84) 99430-6000
+"Total Geral: R$ 38,00"
+
+  📚 ALUNO: JESSICA DE OLIVEIRA BRITO
+"  💰 Total do Aluno: R$ 38,00"
+
+    Data,Valor (R$),Descrição do Consumo
+    ----------,------------,----------------------------------------
+    27/08/2025,"R$ 8,00",AÇAÍ (POTE 250ML)
+    05/09/2025,"R$ 8,00",AÇAÍ (POTE 250ML)
+    05/09/2025,"R$ 8,00",Produto não especificado
+    03/09/2025,"R$ 14,00",Produto não especificado
+
+
+--------------------------------------------------------------------------------
+RESPONSÁVEL #160
+--------------------------------------------------------------------------------
+Nome: NATHALLYA KARELLYNE INACIO DUARTE  DE MELO OLIVEIRA
+Telefone: (84) 99802-6044
+"Total Geral: R$ 33,00"
+
+  📚 ALUNO: SOPHIA MELO DOS SANTOS
+"  💰 Total do Aluno: R$ 33,00"
+
+    Data,Valor (R$),Descrição do Consumo
+    ----------,------------,----------------------------------------
+    29/08/2025,"R$ 14,00",AÇAÍ (POTE 250ML) + SALGADO
+    28/08/2025,"R$ 10,00",CHAMYTO + MINI-PIZZA
+    27/08/2025,"R$ 5,00",CUPCAKE
+    27/08/2025,"R$ 4,00",SUCOS (200ML)
+
+
+--------------------------------------------------------------------------------
+RESPONSÁVEL #161
+--------------------------------------------------------------------------------
+Nome: NEUSSANA KELLEN DE ARAUJO MEDEIROS TORREÃO
+Telefone: (84) 99442-8778
+"Total Geral: R$ 48,00"
+
+  📚 ALUNO: AGATHA DE MEDEIROS TORREÃO
+"  💰 Total do Aluno: R$ 23,00"
+
+    Data,Valor (R$),Descrição do Consumo
+    ----------,------------,----------------------------------------
+    29/08/2025,"R$ 5,00",CUPCAKE
+    27/08/2025,"R$ 6,00",SALGADO
+    05/09/2025,"R$ 6,00",Produto não especificado
+    02/09/2025,"R$ 6,00",SALGADO
+
+  📚 ALUNO: EWENE DE MEDEIROS TORREÃO
+"  💰 Total do Aluno: R$ 25,00"
+
+    Data,Valor (R$),Descrição do Consumo
+    ----------,------------,----------------------------------------
+    27/08/2025,"R$ 6,00",SALGADO
+    05/09/2025,"R$ 7,00",Produto não especificado
+    03/09/2025,"R$ 6,00",SALGADO
+    02/09/2025,"R$ 6,00",MINI-PIZZA
+
+
+--------------------------------------------------------------------------------
+RESPONSÁVEL #162
+--------------------------------------------------------------------------------
+Nome: NICARLA CASCIANO DOS SANTOS
+Telefone: (84) 99983-8292
+"Total Geral: R$ 15,00"
+
+  📚 ALUNO: EMANUEL CASCIANO  SANTANA
+"  💰 Total do Aluno: R$ 15,00"
+
+    Data,Valor (R$),Descrição do Consumo
+    ----------,------------,----------------------------------------
+    03/09/2025,"R$ 15,00",Produto não especificado
+
+
+--------------------------------------------------------------------------------
+RESPONSÁVEL #163
+--------------------------------------------------------------------------------
+Nome: NILMA  CRISTINA
+Telefone: (84) 99478-4582
+"Total Geral: R$ 214,00"
+
+  📚 ALUNO: EMANUELE DAVI  LOMBARDI
+"  💰 Total do Aluno: R$ 78,00"
+
+    Data,Valor (R$),Descrição do Consumo
+    ----------,------------,----------------------------------------
+    29/08/2025,"R$ 16,00",CASADINHA + BOLO DE POTE
+    28/08/2025,"R$ 9,00",CASADINHA
+    27/08/2025,"R$ 6,00",MINI-PIZZA
+    27/08/2025,"R$ 9,00",CASADINHA
+    25/08/2025,"R$ 9,00",Produto não especificado
+    03/09/2025,"R$ 4,00",Produto não especificado
+    02/09/2025,"R$ 15,00",Produto não especificado
+    02/09/2025,"R$ 10,00",MINI-PIZZA + SUCOS (200ML)
+
+  📚 ALUNO: GABRIEL LUCAS  LOMBARDI
+"  💰 Total do Aluno: R$ 136,00"
+
+    Data,Valor (R$),Descrição do Consumo
+    ----------,------------,----------------------------------------
+    29/08/2025,"R$ 14,00",CASADINHA + CHOCOLATE
+    28/08/2025,"R$ 14,00",CASADINHA + CHOCOLATE
+    27/08/2025,"R$ 8,00",AÇAÍ (POTE 250ML)
+    27/08/2025,"R$ 9,00",CASADINHA
+    05/09/2025,"R$ 17,00",CASADINHA + AÇAÍ (POTE 250ML)
+    04/09/2025,"R$ 24,00",Produto não especificado
+    03/09/2025,"R$ 17,00",Produto não especificado
+    03/09/2025,"R$ 17,00",CASADINHA + AÇAÍ (POTE 250ML)
+    02/09/2025,"R$ 16,00",CASADINHA + BOLO DE POTE
+
+
+--------------------------------------------------------------------------------
+RESPONSÁVEL #164
+--------------------------------------------------------------------------------
+Nome: NILTON FAUSTINO DA SILVA  JUNIOR
+Telefone: (84) 98806-2313
+"Total Geral: R$ 9,00"
+
+  📚 ALUNO: NATALIA DANTAS  FAUSTINO
+"  💰 Total do Aluno: R$ 9,00"
+
+    Data,Valor (R$),Descrição do Consumo
+    ----------,------------,----------------------------------------
+    03/09/2025,"R$ 9,00",CASADINHA
+
+
+--------------------------------------------------------------------------------
+RESPONSÁVEL #165
+--------------------------------------------------------------------------------
+Nome: O'HARA DANIELE SOARES COUTINHO
+Telefone: (84) 99189-6221
+"Total Geral: R$ 27,00"
+
+  📚 ALUNO: ARTHUR SOARES MARCOLINO NOGUEIRA
+"  💰 Total do Aluno: R$ 27,00"
+
+    Data,Valor (R$),Descrição do Consumo
+    ----------,------------,----------------------------------------
+    29/08/2025,"R$ 5,00",Produto não especificado
+    27/08/2025,"R$ 4,00",REFRIGERANTE PET
+    05/09/2025,"R$ 9,00",Produto não especificado
+    04/09/2025,"R$ 9,00",Produto não especificado
+
+
+--------------------------------------------------------------------------------
+RESPONSÁVEL #166
+--------------------------------------------------------------------------------
+Nome: PATRICIA  LOPES DA SILVA
+Telefone: (84) 99913-7258
+"Total Geral: R$ 28,00"
+
+  📚 ALUNO: SARAH GABRIELY DA SIL VA SENA
+"  💰 Total do Aluno: R$ 28,00"
+
+    Data,Valor (R$),Descrição do Consumo
+    ----------,------------,----------------------------------------
+    27/08/2025,"R$ 9,00",Produto não especificado
+    27/08/2025,"R$ 10,00",ACHOCOLATADO + SALGADO
+    03/09/2025,"R$ 9,00",Produto não especificado
+
+
+--------------------------------------------------------------------------------
+RESPONSÁVEL #167
+--------------------------------------------------------------------------------
+Nome: PATRICIA DA SILVA ROCHA
+Telefone: (84) 99929-5768
+"Total Geral: R$ 21,00"
+
+  📚 ALUNO: MARIA EDUARDA ROCHA QUEIROZ
+"  💰 Total do Aluno: R$ 21,00"
+
+    Data,Valor (R$),Descrição do Consumo
+    ----------,------------,----------------------------------------
+    29/08/2025,"R$ 11,00",SALGADO + CHOCOLATE
+    27/08/2025,"R$ 10,00",SALGADO + REFRIGERANTE PET
+
+
+--------------------------------------------------------------------------------
+RESPONSÁVEL #168
+--------------------------------------------------------------------------------
+Nome: PATRICIA TORRES
+Telefone: (84) 99663-6408
+"Total Geral: R$ 50,00"
+
+  📚 ALUNO: ANA BEATRIZ  TORRES
+"  💰 Total do Aluno: R$ 50,00"
+
+    Data,Valor (R$),Descrição do Consumo
+    ----------,------------,----------------------------------------
+    27/08/2025,"R$ 10,00",Produto não especificado
+    27/08/2025,"R$ 21,00",2x SALGADO + CHOCOLATE  + PASTILHA
+    25/08/2025,"R$ 9,00",Produto não especificado
+    05/09/2025,"R$ 10,00",Produto não especificado
+
+
+--------------------------------------------------------------------------------
+RESPONSÁVEL #169
+--------------------------------------------------------------------------------
+Nome: PAULA LILIANE MEDEIROS DA CONCEIÇÃO
+Telefone: (84) 99180-6995
+"Total Geral: R$ 97,00"
+
+  📚 ALUNO: JOAO GUILHERME MEDEIROS DE LIMA
+"  💰 Total do Aluno: R$ 26,00"
+
+    Data,Valor (R$),Descrição do Consumo
+    ----------,------------,----------------------------------------
+    05/09/2025,"R$ 10,00",SALGADO + ACHOCOLATADO
+    03/09/2025,"R$ 6,00",Produto não especificado
+    02/09/2025,"R$ 10,00",MINI-PIZZA + ACHOCOLATADO
+
+  📚 ALUNO: PEDRO HENRIQUE MEDEIROS SEABRA
+"  💰 Total do Aluno: R$ 71,00"
+
+    Data,Valor (R$),Descrição do Consumo
+    ----------,------------,----------------------------------------
+    29/08/2025,"R$ 11,00",Produto não especificado
+    28/08/2025,"R$ 6,00",MINI-PIZZA
+    27/08/2025,"R$ 15,00",Produto não especificado
+    05/09/2025,"R$ 12,00",Produto não especificado
+    04/09/2025,"R$ 6,00",SALGADO
+    03/09/2025,"R$ 6,00",SALGADO
+    03/09/2025,"R$ 15,00",Produto não especificado
+
+
+--------------------------------------------------------------------------------
+RESPONSÁVEL #170
+--------------------------------------------------------------------------------
+Nome: PAULO  RANGEL
+Telefone: (84) 99403-2600
+"Total Geral: R$ 78,00"
+
+  📚 ALUNO: BERNADO  RANGEL
+"  💰 Total do Aluno: R$ 78,00"
+
+    Data,Valor (R$),Descrição do Consumo
+    ----------,------------,----------------------------------------
+    27/08/2025,"R$ 14,00",MINI-PIZZA + AÇAÍ (POTE 250ML)
+    27/08/2025,"R$ 14,00",AÇAÍ (POTE 250ML) + MINI-PIZZA
+    25/08/2025,"R$ 11,00",Produto não especificado
+    05/09/2025,"R$ 14,00",Produto não especificado
+    02/09/2025,"R$ 14,00",MINI-PIZZA + BOLO FATIA + ÁGUA MINERAL (SEM GÁS)
+    02/09/2025,"R$ 11,00",MINI-PIZZA + CUPCAKE
+
+
+--------------------------------------------------------------------------------
+RESPONSÁVEL #171
+--------------------------------------------------------------------------------
+Nome: PAULO CESAR DE LIMA
+Telefone: (84) 98109-2004
+"Total Geral: R$ 42,00"
+
+  📚 ALUNO: CATARINA BEATRIZ  B ENTO MEDEIROS L IMA
+"  💰 Total do Aluno: R$ 14,00"
+
+    Data,Valor (R$),Descrição do Consumo
+    ----------,------------,----------------------------------------
+    05/09/2025,"R$ 8,00",Produto não especificado
+    03/09/2025,"R$ 6,00",SALGADO
+
+  📚 ALUNO: MARIA VALENTINA BENTO MEDEIROS LIMA
+"  💰 Total do Aluno: R$ 18,00"
+
+    Data,Valor (R$),Descrição do Consumo
+    ----------,------------,----------------------------------------
+    29/08/2025,"R$ 9,00",CASADINHA
+    27/08/2025,"R$ 9,00",CASADINHA
+
+  📚 ALUNO: PEROLA SOPHIE BENTO MEDEIROS L IMA
+"  💰 Total do Aluno: R$ 10,00"
+
+    Data,Valor (R$),Descrição do Consumo
+    ----------,------------,----------------------------------------
+    05/09/2025,"R$ 10,00",MINI-PIZZA + SUCOS (200ML)
+
+
+--------------------------------------------------------------------------------
+RESPONSÁVEL #172
+--------------------------------------------------------------------------------
+Nome: PAULO ROMMEL RODRIGUES DA SILVA
+Telefone: (84) 99616-9328
+"Total Geral: R$ 41,00"
+
+  📚 ALUNO: ARTHUR COSTA RODRIGUES
+"  💰 Total do Aluno: R$ 9,00"
+
+    Data,Valor (R$),Descrição do Consumo
+    ----------,------------,----------------------------------------
+    02/09/2025,"R$ 9,00",CUPCAKE + CHAMYTO
+
+  📚 ALUNO: ARÃO COSTA RODRIGUES
+"  💰 Total do Aluno: R$ 9,00"
+
+    Data,Valor (R$),Descrição do Consumo
+    ----------,------------,----------------------------------------
+    02/09/2025,"R$ 9,00",CUPCAKE + CHAMYTO
+
+  📚 ALUNO: DAVI COSTA RODRIGUES
+"  💰 Total do Aluno: R$ 9,00"
+
+    Data,Valor (R$),Descrição do Consumo
+    ----------,------------,----------------------------------------
+    02/09/2025,"R$ 9,00",CUPCAKE + CHAMYTO
+
+  📚 ALUNO: PAULO HEITOR COSTA RODRIGUES
+"  💰 Total do Aluno: R$ 14,00"
+
+    Data,Valor (R$),Descrição do Consumo
+    ----------,------------,----------------------------------------
+    02/09/2025,"R$ 14,00",Produto não especificado
+
+
+--------------------------------------------------------------------------------
+RESPONSÁVEL #173
+--------------------------------------------------------------------------------
+Nome: PONCIO PABLO BERTOLDO DA COSTA
+Telefone: (84) 98899-1170
+"Total Geral: R$ 10,00"
+
+  📚 ALUNO: MARIANA BERTOLDO DOMINGOS
+"  💰 Total do Aluno: R$ 10,00"
+
+    Data,Valor (R$),Descrição do Consumo
+    ----------,------------,----------------------------------------
+    29/08/2025,"R$ 10,00",SALGADO + CHAMYTO
+
+
+--------------------------------------------------------------------------------
+RESPONSÁVEL #174
+--------------------------------------------------------------------------------
+Nome: RAIMUNDO PAULO DO NASCIMENTO FILHO
+Telefone: (84) 99103-7892
+"Total Geral: R$ 9,00"
+
+  📚 ALUNO: SAMUEL PONTES DO NASCIMENTO
+"  💰 Total do Aluno: R$ 9,00"
+
+    Data,Valor (R$),Descrição do Consumo
+    ----------,------------,----------------------------------------
+    02/09/2025,"R$ 9,00",CASADINHA
+
+
+--------------------------------------------------------------------------------
+RESPONSÁVEL #175
+--------------------------------------------------------------------------------
+Nome: RAIZA CRISTINA PRAXEDES DA SILVA
+Telefone: (84) 99901-5439
+"Total Geral: R$ 12,00"
+
+  📚 ALUNO: ALICE VITORIA PRAXEDES DE SOUZA
+"  💰 Total do Aluno: R$ 12,00"
+
+    Data,Valor (R$),Descrição do Consumo
+    ----------,------------,----------------------------------------
+    28/08/2025,"R$ 6,00",SALGADO
+    05/09/2025,"R$ 6,00",MINI-PIZZA
+
+
+--------------------------------------------------------------------------------
+RESPONSÁVEL #176
+--------------------------------------------------------------------------------
+Nome: RAYANE PONTES
+Telefone: (84) 98839-7478
+"Total Geral: R$ 38,00"
+
+  📚 ALUNO: MARIA VALENTINA PONTES
+"  💰 Total do Aluno: R$ 38,00"
+
+    Data,Valor (R$),Descrição do Consumo
+    ----------,------------,----------------------------------------
+    29/08/2025,"R$ 20,00",AÇAÍ (POTE 250ML) + 2x SALGADO
+    05/09/2025,"R$ 6,00",Produto não especificado
+    03/09/2025,"R$ 6,00",SALGADO
+    02/09/2025,"R$ 6,00",SALGADO
+
+
+--------------------------------------------------------------------------------
+RESPONSÁVEL #177
+--------------------------------------------------------------------------------
+Nome: REBECA DA ROCHA MARQUES LOPES
+Telefone: (84) 99410-6880
+"Total Geral: R$ 39,00"
+
+  📚 ALUNO: JORGE LORENZO MARQUES LOPES
+"  💰 Total do Aluno: R$ 39,00"
+
+    Data,Valor (R$),Descrição do Consumo
+    ----------,------------,----------------------------------------
+    27/08/2025,"R$ 10,00",MINI-PIZZA + CHAMYTO
+    27/08/2025,"R$ 10,00",MINI-PIZZA + CHAMYTO
+    25/08/2025,"R$ 10,00",Produto não especificado
+    02/09/2025,"R$ 9,00",ACHOCOLATADO + TORRADA / MISTO QUENTE
+
+
+--------------------------------------------------------------------------------
+RESPONSÁVEL #178
+--------------------------------------------------------------------------------
+Nome: RITA  HELAINE ABREU DE ALMEIDA PAIVA
+Telefone: (84) 99178-9553
+"Total Geral: R$ 13,00"
+
+  📚 ALUNO: ESTER  TOMAZIA
+"  💰 Total do Aluno: R$ 13,00"
+
+    Data,Valor (R$),Descrição do Consumo
+    ----------,------------,----------------------------------------
+    03/09/2025,"R$ 5,00",BOLO FATIA
+    03/09/2025,"R$ 8,00",Produto não especificado
+
+
+--------------------------------------------------------------------------------
+RESPONSÁVEL #179
+--------------------------------------------------------------------------------
+Nome: ROBEILTON AZEVED O DA SILVA GOMES
+Telefone: (84) 99117-2134
+"Total Geral: R$ 43,00"
+
+  📚 ALUNO: HEITOR GOMES AZEVEDO
+"  💰 Total do Aluno: R$ 43,00"
+
+    Data,Valor (R$),Descrição do Consumo
+    ----------,------------,----------------------------------------
+    29/08/2025,"R$ 6,00",MINI-PIZZA
+    28/08/2025,"R$ 6,00",CUSCUZ RECHEADO (POTE 250ML)
+    27/08/2025,"R$ 6,00",SALGADO
+    27/08/2025,"R$ 6,00",Produto não especificado
+    25/08/2025,"R$ 6,00",Produto não especificado
+    05/09/2025,"R$ 7,00",HAMBURGUER ARTESANAL
+    03/09/2025,"R$ 6,00",SALGADO
+
+
+--------------------------------------------------------------------------------
+RESPONSÁVEL #180
+--------------------------------------------------------------------------------
+Nome: ROBERTA MONTEIRO DE SOUZA VIEIRA
+Telefone: (84) 99218-7083
+"Total Geral: R$ 10,00"
+
+  📚 ALUNO: ACSA MONTEIRO DE SOUZA VIEIRA
+"  💰 Total do Aluno: R$ 5,00"
+
+    Data,Valor (R$),Descrição do Consumo
+    ----------,------------,----------------------------------------
+    25/08/2025,"R$ 5,00",TORRADA / MISTO QUENTE
+
+  📚 ALUNO: ELOAH MONTEIRO DE SOUZA VIEIRA
+"  💰 Total do Aluno: R$ 5,00"
+
+    Data,Valor (R$),Descrição do Consumo
+    ----------,------------,----------------------------------------
+    29/08/2025,"R$ 5,00",CUPCAKE
+
+
+--------------------------------------------------------------------------------
+RESPONSÁVEL #181
+--------------------------------------------------------------------------------
+Nome: ROBERTO ALVES DA SILVA
+Telefone: (84) 99444-9136
+"Total Geral: R$ 32,00"
+
+  📚 ALUNO: ANELIZE DA NÓBREGA ALVES
+"  💰 Total do Aluno: R$ 32,00"
+
+    Data,Valor (R$),Descrição do Consumo
+    ----------,------------,----------------------------------------
+    28/08/2025,"R$ 6,00",SALGADO
+    27/08/2025,"R$ 5,00",Produto não especificado
+    03/09/2025,"R$ 11,00",Produto não especificado
+    02/09/2025,"R$ 10,00",SALGADO + SUCOS (200ML)
+
+
+--------------------------------------------------------------------------------
+RESPONSÁVEL #182
+--------------------------------------------------------------------------------
+Nome: RODRIGO  REGLY CARVAL HO
+Telefone: (84) 99644-0012
+"Total Geral: R$ 53,00"
+
+  📚 ALUNO: BEATRIZ  REGLY  DE LIMA A CARVALHO
+"  💰 Total do Aluno: R$ 53,00"
+
+    Data,Valor (R$),Descrição do Consumo
+    ----------,------------,----------------------------------------
+    28/08/2025,"R$ 8,00",Produto não especificado
+    27/08/2025,"R$ 22,00",2x AÇAÍ (POTE 250ML) + SALGADO
+    03/09/2025,"R$ 14,00",AÇAÍ (POTE 250ML) + SALGADO
+    02/09/2025,"R$ 9,00",MINI-PIZZA + ÁGUA MINERAL (SEM GÁS)
+
+
+--------------------------------------------------------------------------------
+RESPONSÁVEL #183
+--------------------------------------------------------------------------------
+Nome: ROSINARA DA SILVA BORGES SANTANA
+Telefone: (84) 99820-2146
+"Total Geral: R$ 5,00"
+
+  📚 ALUNO: PAULO BORGES SANTANA
+"  💰 Total do Aluno: R$ 5,00"
+
+    Data,Valor (R$),Descrição do Consumo
+    ----------,------------,----------------------------------------
+    29/08/2025,"R$ 5,00",Produto não especificado
+
+
+--------------------------------------------------------------------------------
+RESPONSÁVEL #184
+--------------------------------------------------------------------------------
+Nome: RUTE MEDEIROS DE  ALBUQUERQUE
+Telefone: (84) 99902-2700
+"Total Geral: R$ 6,00"
+
+  📚 ALUNO: LARA DANIELE NASCIMENTO  ALBUQUERQUE
+"  💰 Total do Aluno: R$ 6,00"
+
+    Data,Valor (R$),Descrição do Consumo
+    ----------,------------,----------------------------------------
+    28/08/2025,"R$ 6,00",SALGADO
+
+
+--------------------------------------------------------------------------------
+RESPONSÁVEL #185
+--------------------------------------------------------------------------------
+Nome: SAMARA LOPES DE QUEIROZ
+Telefone: (84) 98808-3588
+"Total Geral: R$ 30,00"
+
+  📚 ALUNO: MARIA HELENA VIRGOLINO QUEIROZ
+"  💰 Total do Aluno: R$ 30,00"
+
+    Data,Valor (R$),Descrição do Consumo
+    ----------,------------,----------------------------------------
+    28/08/2025,"R$ 10,00",SALGADO + ACHOCOLATADO
+    25/08/2025,"R$ 10,00",Produto não especificado
+    02/09/2025,"R$ 10,00",SALGADO + ACHOCOLATADO
+
+
+--------------------------------------------------------------------------------
+RESPONSÁVEL #186
+--------------------------------------------------------------------------------
+Nome: SAMUEL MONTEIRO DE LIRA MOURA
+Telefone: (84) 99974-0464
+"Total Geral: R$ 4,00"
+
+  📚 ALUNO: ASAFE EFRAIM  SILVA DE LIRA MOURA
+"  💰 Total do Aluno: R$ 4,00"
+
+    Data,Valor (R$),Descrição do Consumo
+    ----------,------------,----------------------------------------
+    02/09/2025,"R$ 4,00",SUCOS (200ML)
+
+
+--------------------------------------------------------------------------------
+RESPONSÁVEL #187
+--------------------------------------------------------------------------------
+Nome: SAMUEL SOUZA
+Telefone: (84) 99949-5075
+"Total Geral: R$ 26,00"
+
+  📚 ALUNO: SAMUEL  SOUZA
+"  💰 Total do Aluno: R$ 26,00"
+
+    Data,Valor (R$),Descrição do Consumo
+    ----------,------------,----------------------------------------
+    28/08/2025,"R$ 21,00",CHOCOLATE  + CAPPUCCINO 3 CORAÇÕES  + SALGADO
+    03/09/2025,"R$ 5,00",BOLO FATIA
+
+
+--------------------------------------------------------------------------------
+RESPONSÁVEL #188
+--------------------------------------------------------------------------------
+Nome: SARA  RUANA
+Telefone: (84) 99605-1280
+"Total Geral: R$ 60,00"
+
+  📚 ALUNO: ENZO  EDUARDO
+"  💰 Total do Aluno: R$ 60,00"
+
+    Data,Valor (R$),Descrição do Consumo
+    ----------,------------,----------------------------------------
+    29/08/2025,"R$ 8,00",ÁGUA MINERAL (SEM GÁS) + CHOCOLATE
+    27/08/2025,"R$ 15,00",SALGADO + ACHOCOLATADO + CHOCOLATE
+    25/08/2025,"R$ 9,00",Produto não especificado
+    04/09/2025,"R$ 4,00",Produto não especificado
+    03/09/2025,"R$ 4,00",Produto não especificado
+    03/09/2025,"R$ 8,00",CREME DE NINHO
+    02/09/2025,"R$ 12,00",CHOCOLATE  + HAMBURGUER ARTESANAL
+
+
+--------------------------------------------------------------------------------
+RESPONSÁVEL #189
+--------------------------------------------------------------------------------
+Nome: SARAH SASKYA SERAFIM DE ARAÚJO
+Telefone: (84) 99499-9292
+"Total Geral: R$ 25,00"
+
+  📚 ALUNO: SARAH SASKYA SERAFIM DE ARAÚJO
+"  💰 Total do Aluno: R$ 25,00"
+
+    Data,Valor (R$),Descrição do Consumo
+    ----------,------------,----------------------------------------
+    28/08/2025,"R$ 9,00",Produto não especificado
+    27/08/2025,"R$ 9,00",Produto não especificado
+    02/09/2025,"R$ 7,00",Produto não especificado
+
+
+--------------------------------------------------------------------------------
+RESPONSÁVEL #190
+--------------------------------------------------------------------------------
+Nome: SUERDA    MEDEIROS DE SOUZA SANTOS
+Telefone: (84) 99630-5660
+"Total Geral: R$ 186,00"
+
+  📚 ALUNO: ISAQUE  ALEX DE SOUZA SANTOS
+"  💰 Total do Aluno: R$ 96,00"
+
+    Data,Valor (R$),Descrição do Consumo
+    ----------,------------,----------------------------------------
+    28/08/2025,"R$ 21,00",SALGADO + CHOCOLATE  + CAPPUCCINO 3 CORAÇÕES
+    27/08/2025,"R$ 14,00",Produto não especificado
+    25/08/2025,"R$ 9,00",Produto não especificado
+    05/09/2025,"R$ 17,00",Produto não especificado
+    04/09/2025,"R$ 15,00",CASADINHA + SALGADO
+    03/09/2025,"R$ 14,00",CASADINHA + BOLO FATIA
+    02/09/2025,"R$ 6,00",Produto não especificado
+
+  📚 ALUNO: REBECA ESTER DE SOUZA SANTOS
+"  💰 Total do Aluno: R$ 90,00"
+
+    Data,Valor (R$),Descrição do Consumo
+    ----------,------------,----------------------------------------
+    27/08/2025,"R$ 10,00",CUSCUZ RECHEADO (POTE 250ML) + SUCOS (200ML)
+    27/08/2025,"R$ 9,00",CASADINHA
+    25/08/2025,"R$ 10,00",Produto não especificado
+    05/09/2025,"R$ 19,00",CASADINHA
+    05/09/2025,"R$ 6,00",Produto não especificado
+    03/09/2025,"R$ 10,00",ACHOCOLATADO + PÃO DE QUEIJO (PORÇÃO)
+    02/09/2025,"R$ 10,00",MINI-PIZZA + SUCOS (200ML)
+    02/09/2025,"R$ 16,00",2x SALGADO + SUCOS (200ML)
+
+
+--------------------------------------------------------------------------------
+RESPONSÁVEL #191
+--------------------------------------------------------------------------------
+Nome: SUZETE  L OP ES GALVÃO
+Telefone: (84) 98803-2778
+"Total Geral: R$ 12,00"
+
+  📚 ALUNO: PEDRO HENRIQ UE L OPES ESTEVAM DE SOUZA
+"  💰 Total do Aluno: R$ 12,00"
+
+    Data,Valor (R$),Descrição do Consumo
+    ----------,------------,----------------------------------------
+    27/08/2025,"R$ 6,00",Produto não especificado
+    27/08/2025,"R$ 6,00",SALGADO
+
+
+--------------------------------------------------------------------------------
+RESPONSÁVEL #192
+--------------------------------------------------------------------------------
+Nome: TALIANE SUERDA DE MORA SILVA
+Telefone: (84) 99699-5835
+"Total Geral: R$ 53,00"
+
+  📚 ALUNO: SOPHIA REBECA MOURA DOS SANTOS
+"  💰 Total do Aluno: R$ 53,00"
+
+    Data,Valor (R$),Descrição do Consumo
+    ----------,------------,----------------------------------------
+    29/08/2025,"R$ 6,00",SALGADO
+    27/08/2025,"R$ 10,00",Produto não especificado
+    27/08/2025,"R$ 10,00",MINI-PIZZA + SUCOS (200ML)
+    05/09/2025,"R$ 6,00",Produto não especificado
+    05/09/2025,"R$ 6,00",Produto não especificado
+    02/09/2025,"R$ 6,00",MINI-PIZZA
+    02/09/2025,"R$ 9,00",CASADINHA
+
+
+--------------------------------------------------------------------------------
+RESPONSÁVEL #193
+--------------------------------------------------------------------------------
+Nome: TALITTA SANTOS NEVES
+Telefone: (82) 99912-8002
+"Total Geral: R$ 72,00"
+
+  📚 ALUNO: LUCAS NEVES LAMHA
+"  💰 Total do Aluno: R$ 72,00"
+
+    Data,Valor (R$),Descrição do Consumo
+    ----------,------------,----------------------------------------
+    29/08/2025,"R$ 8,00",AÇAÍ (POTE 250ML)
+    27/08/2025,"R$ 13,00",Produto não especificado
+    25/08/2025,"R$ 10,00",Produto não especificado
+    05/09/2025,"R$ 10,00",SALGADO + FRUTAS (UNIDADE)
+    05/09/2025,"R$ 8,00",Produto não especificado
+    03/09/2025,"R$ 8,00",Produto não especificado
+    02/09/2025,"R$ 8,00",AÇAÍ (POTE 250ML)
+    02/09/2025,"R$ 7,00",BOLO DE POTE
+
+
+--------------------------------------------------------------------------------
+RESPONSÁVEL #194
+--------------------------------------------------------------------------------
+Nome: TASSIA CAMILA  DA SILVA
+Telefone: (81) 98164-5434
+"Total Geral: R$ 22,00"
+
+  📚 ALUNO: JOÃO MIGUEL DA SIL VA MIRANDA MARINHO
+"  💰 Total do Aluno: R$ 22,00"
+
+    Data,Valor (R$),Descrição do Consumo
+    ----------,------------,----------------------------------------
+    29/08/2025,"R$ 6,00",SALGADO
+    27/08/2025,"R$ 10,00",SALGADO + PASTILHA
+    03/09/2025,"R$ 6,00",Produto não especificado
+
+
+--------------------------------------------------------------------------------
+RESPONSÁVEL #195
+--------------------------------------------------------------------------------
+Nome: TASSIA LOURENA DE OLIVEIRA ARAUJO DANTAS
+Telefone: (84) 99613-6317
+"Total Geral: R$ 16,00"
+
+  📚 ALUNO: ANA SOPHIE ARAUJO DANTAS
+"  💰 Total do Aluno: R$ 6,00"
+
+    Data,Valor (R$),Descrição do Consumo
+    ----------,------------,----------------------------------------
+    05/09/2025,"R$ 6,00",Produto não especificado
+
+  📚 ALUNO: LARA ELENA ARAUJO DANTAS
+"  💰 Total do Aluno: R$ 10,00"
+
+    Data,Valor (R$),Descrição do Consumo
+    ----------,------------,----------------------------------------
+    25/08/2025,"R$ 4,00",ACHOCOLATADO
+    05/09/2025,"R$ 6,00",SALGADO
+
+
+--------------------------------------------------------------------------------
+RESPONSÁVEL #196
+--------------------------------------------------------------------------------
+Nome: TATIANA DE CARVALHO  MACHADO
+Telefone: (84) 99676-1066
+"Total Geral: R$ 55,00"
+
+  📚 ALUNO: ISIS  MACHADO LIMA
+"  💰 Total do Aluno: R$ 55,00"
+
+    Data,Valor (R$),Descrição do Consumo
+    ----------,------------,----------------------------------------
+    28/08/2025,"R$ 6,00",Produto não especificado
+    27/08/2025,"R$ 6,00",SALGADO
+    27/08/2025,"R$ 5,00",CUPCAKE
+    25/08/2025,"R$ 16,00",Produto não especificado
+    03/09/2025,"R$ 12,00",ÁGUA MINERAL (COM GÁS) + AÇAÍ (POTE 250ML)
+    02/09/2025,"R$ 10,00",CAPPUCCINO 3 CORAÇÕES
+
+
+--------------------------------------------------------------------------------
+RESPONSÁVEL #197
+--------------------------------------------------------------------------------
+Nome: TATIANA LARISSA DE MOURA ALVES
+Telefone: (84) 99140-8030
+"Total Geral: R$ 9,00"
+
+  📚 ALUNO: MARIANA ALVES DE ARAUJO
+"  💰 Total do Aluno: R$ 9,00"
+
+    Data,Valor (R$),Descrição do Consumo
+    ----------,------------,----------------------------------------
+    05/09/2025,"R$ 9,00",Produto não especificado
+
+
+--------------------------------------------------------------------------------
+RESPONSÁVEL #198
+--------------------------------------------------------------------------------
+Nome: THIAGO MARTINS DE SOUZA
+Telefone: (84) 99960-6661
+"Total Geral: R$ 26,00"
+
+  📚 ALUNO: HELENA SANTOS DE ARAUJO MARTINS
+"  💰 Total do Aluno: R$ 26,00"
+
+    Data,Valor (R$),Descrição do Consumo
+    ----------,------------,----------------------------------------
+    29/08/2025,"R$ 16,00",Produto não especificado
+    27/08/2025,"R$ 4,00",CHAMYTO
+    27/08/2025,"R$ 6,00",MINI-PIZZA
+
+
+--------------------------------------------------------------------------------
+RESPONSÁVEL #199
+--------------------------------------------------------------------------------
+Nome: VANESSA DA SILVA CRUZ COSTA
+Telefone: (84) 98839-5979
+"Total Geral: R$ 9,00"
+
+  📚 ALUNO: ANA MILENA DA SILVA COSTA
+"  💰 Total do Aluno: R$ 9,00"
+
+    Data,Valor (R$),Descrição do Consumo
+    ----------,------------,----------------------------------------
+    03/09/2025,"R$ 9,00",Produto não especificado
+
+
+--------------------------------------------------------------------------------
+RESPONSÁVEL #200
+--------------------------------------------------------------------------------
+Nome: VANESSA GOSSON GADELHA DE FREITAS FORTES
+Telefone: (84) 98741-7825
+"Total Geral: R$ 82,00"
+
+  📚 ALUNO: VITORIA GOSSON GADELHA FORTES
+"  💰 Total do Aluno: R$ 82,00"
+
+    Data,Valor (R$),Descrição do Consumo
+    ----------,------------,----------------------------------------
+    29/08/2025,"R$ 11,00",BOLO DE POTE + SUCOS (200ML)
+    28/08/2025,"R$ 8,00",SUCOS (200ML)
+    25/08/2025,"R$ 9,00",CUPCAKE + SUCOS (200ML)
+    05/09/2025,"R$ 14,00",Produto não especificado
+    05/09/2025,"R$ 8,00",AÇAÍ (POTE 250ML)
+    03/09/2025,"R$ 10,00",Produto não especificado
+    02/09/2025,"R$ 8,00",AÇAÍ (POTE 250ML)
+    02/09/2025,"R$ 14,00",SALGADO + 2x SUCOS (200ML)
+
+
+--------------------------------------------------------------------------------
+RESPONSÁVEL #201
+--------------------------------------------------------------------------------
+Nome: VANIA CLEIDE DE MORAIS SILVA LIRA
+Telefone: (84) 99947-6912
+"Total Geral: R$ 110,00"
+
+  📚 ALUNO: GUILHERME MORAIS LIRA E SILV A
+"  💰 Total do Aluno: R$ 110,00"
+
+    Data,Valor (R$),Descrição do Consumo
+    ----------,------------,----------------------------------------
+    29/08/2025,"R$ 10,00",ACHOCOLATADO + SALGADO
+    28/08/2025,"R$ 9,00",CASADINHA
+    27/08/2025,"R$ 18,00",Produto não especificado
+    04/09/2025,"R$ 20,00",SALGADO + CASADINHA + BOLO FATIA
+    03/09/2025,"R$ 9,00",CASADINHA
+    03/09/2025,"R$ 20,00",Produto não especificado
+    02/09/2025,"R$ 24,00",BOLO DE POTE + SALGADO + HAMBURGUER ARTESANAL + REFRIGERANTE PET
+
+
+--------------------------------------------------------------------------------
+RESPONSÁVEL #202
+--------------------------------------------------------------------------------
+Nome: VERANA SIMÃO DE HOLANDA MOURA
+Telefone: (84) 98158-5662
+"Total Geral: R$ 12,00"
+
+  📚 ALUNO: PIETRO HOLLANDA DE  MOURA
+"  💰 Total do Aluno: R$ 12,00"
+
+    Data,Valor (R$),Descrição do Consumo
+    ----------,------------,----------------------------------------
+    28/08/2025,"R$ 6,00",Produto não especificado
+    02/09/2025,"R$ 6,00",SALGADO
+
+
+--------------------------------------------------------------------------------
+RESPONSÁVEL #203
+--------------------------------------------------------------------------------
+Nome: VIVIANE ARNAUD  LOPES DIAS
+Telefone: (84) 99958-6028
+"Total Geral: R$ 45,00"
+
+  📚 ALUNO: MARIA CLARA ARNAUD LOPES DIAS
+"  💰 Total do Aluno: R$ 45,00"
+
+    Data,Valor (R$),Descrição do Consumo
+    ----------,------------,----------------------------------------
+    28/08/2025,"R$ 8,00",AÇAÍ (POTE 250ML)
+    27/08/2025,"R$ 8,00",AÇAÍ (POTE 250ML)
+    27/08/2025,"R$ 8,00",AÇAÍ (POTE 250ML)
+    03/09/2025,"R$ 8,00",Produto não especificado
+    03/09/2025,"R$ 8,00",CREME DE NINHO
+    02/09/2025,"R$ 5,00",CHOCOLATE
+
+
+--------------------------------------------------------------------------------
+RESPONSÁVEL #204
+--------------------------------------------------------------------------------
+Nome: WANESSA  DIAZ
+Telefone: (51) 99671-6728
+"Total Geral: R$ 17,00"
+
+  📚 ALUNO: LUCAS  DIAZ
+"  💰 Total do Aluno: R$ 17,00"
+
+    Data,Valor (R$),Descrição do Consumo
+    ----------,------------,----------------------------------------
+    05/09/2025,"R$ 6,00",MINI-PIZZA
+    03/09/2025,"R$ 11,00",Produto não especificado
+
+
+--------------------------------------------------------------------------------
+RESPONSÁVEL #205
+--------------------------------------------------------------------------------
+Nome: YANNE BARRETO
+Telefone: (84) 99666-3042
+"Total Geral: R$ 229,00"
+
+  📚 ALUNO: ALISSIA BARRETO
+"  💰 Total do Aluno: R$ 45,00"
+
+    Data,Valor (R$),Descrição do Consumo
+    ----------,------------,----------------------------------------
+    27/08/2025,"R$ 9,00",CUPCAKE + SUCOS (200ML)
+    27/08/2025,"R$ 9,00",CUPCAKE + ACHOCOLATADO
+    25/08/2025,"R$ 9,00",CUPCAKE
+    02/09/2025,"R$ 9,00",Produto não especificado
+    02/09/2025,"R$ 9,00",CUPCAKE + SUCOS (200ML)
+
+  📚 ALUNO: JULIA GOMES BARRETO
+"  💰 Total do Aluno: R$ 74,00"
+
+    Data,Valor (R$),Descrição do Consumo
+    ----------,------------,----------------------------------------
+    27/08/2025,"R$ 11,00",MINI-PIZZA + CUPCAKE
+    27/08/2025,"R$ 11,00",MINI-PIZZA + CUPCAKE
+    25/08/2025,"R$ 11,00",Produto não especificado
+    05/09/2025,"R$ 10,00",Produto não especificado
+    03/09/2025,"R$ 10,00",MINI-PIZZA + ACHOCOLATADO
+    02/09/2025,"R$ 10,00",SALGADO + ACHOCOLATADO
+    02/09/2025,"R$ 11,00",CUPCAKE + SALGADO
+
+  📚 ALUNO: LUCCA  BARRETO
+"  💰 Total do Aluno: R$ 51,00"
+
+    Data,Valor (R$),Descrição do Consumo
+    ----------,------------,----------------------------------------
+    27/08/2025,"R$ 11,00",SALGADO + IOGURTE
+    27/08/2025,"R$ 10,00",SALGADO + ACHOCOLATADO
+    25/08/2025,"R$ 10,00",Produto não especificado
+    03/09/2025,"R$ 10,00",Produto não especificado
+    02/09/2025,"R$ 10,00",Produto não especificado
+
+  📚 ALUNO: YAN AUGUSTO  BARRETO
+"  💰 Total do Aluno: R$ 59,00"
+
+    Data,Valor (R$),Descrição do Consumo
+    ----------,------------,----------------------------------------
+    27/08/2025,"R$ 9,00",ÁGUA MINERAL (SEM GÁS) + SALGADO
+    27/08/2025,"R$ 10,00",SALGADO + ACHOCOLATADO
+    05/09/2025,"R$ 10,00",Produto não especificado
+    03/09/2025,"R$ 10,00",MINI-PIZZA + ACHOCOLATADO
+    02/09/2025,"R$ 10,00",MINI-PIZZA + ACHOCOLATADO
+    02/09/2025,"R$ 10,00",SALGADO + ACHOCOLATADO
+
+
+--------------------------------------------------------------------------------
+RESPONSÁVEL #206
+--------------------------------------------------------------------------------
+Nome: YARA ANGELICA ALVES FERNANDES
+Telefone: (84) 98866-1006
+"Total Geral: R$ 40,00"
+
+  📚 ALUNO: RAFAEL ALVES VASILJEVIC MENDES
+"  💰 Total do Aluno: R$ 40,00"
+
+    Data,Valor (R$),Descrição do Consumo
+    ----------,------------,----------------------------------------
+    25/08/2025,"R$ 6,00",Produto não especificado
+    05/09/2025,"R$ 7,00",Produto não especificado
+    04/09/2025,"R$ 7,00",HAMBURGUER ARTESANAL
+    03/09/2025,"R$ 14,00",Produto não especificado
+    02/09/2025,"R$ 6,00",Produto não especificado
+
+
+================================================================================
+                              RESUMO GERAL
+================================================================================
+Total de Responsáveis: 206
+Total de Alunos: 251
+"VALOR TOTAL GERAL: R$ 9393,00"
+
+Relatório gerado automaticamente pelo Sistema de Gestão da Cantina
+================================================================================
